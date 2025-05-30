@@ -1,0 +1,128 @@
+[
+    {
+        "id": "lvivska",
+        "name": "Львівська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_lviv.svg",
+        "map_image": "vite-project/public/images/regions_maps/lviv_map.svg"
+    },
+    {
+        "id": "transcarpathian",
+        "name": "Закарпатська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_transcarpathian.svg",
+        "map_image": "vite-project/public/images/regions_maps/transcarpathian_map.svg"
+    },
+    {
+        "id": "ivano-frankivsk",
+        "name": " Івано-Франківська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_ivano_frankivsk.svg",
+        "map_image": "vite-project/public/images/regions_maps/ivano_frankivsk.svg"
+    },
+    {
+        "id": "chernivtsi",
+        "name": "Черкаська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_chernivtsi.svg",
+        "map_image": "vite-project/public/images/regions_maps/cherkasy_map.svg"
+    },
+    {
+        "id": "ternopil",
+        "name": "Тернопільська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_ternopil.svg",
+        "map_image": "vite-project/public/images/regions_maps/ternopil_map.svg"
+    },
+    {
+        "id": "volyn",
+        "name": "Волинська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_volyn.svg",
+        "map_image": "vite-project/public/images/regions_maps/volyn_map.svg"
+    },
+    {
+        "id": "rivne",
+        "name": "Рівненська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_rivne.svg",
+        "map_image": "vite-project/public/images/regions_maps/rivne_map.svg"
+    },
+    {
+        "id": "zhytomyr",
+        "name": "Житомирська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_zhytomyr.svg",
+        "map_image": "vite-project/public/images/regions_maps/zhytomyr_map.svg"
+    },
+    {
+        "id": "khmelnytskyi",
+        "name": "Хмельницька область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_khmelnytskyi.svg",
+        "map_image": "vite-project/public/images/regions_maps/khmelnytskyi_map.svg"
+    },
+    {
+        "id": "vinnytsia",
+        "name": "Вінницька область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_vinnytsia.svg",
+        "map_image": "vite-project/public/images/regions_maps/vinnytsia_map.svg"
+    },
+    {
+        "id": "kyivska",
+        "name": "Київська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_kyiv.svg",
+        "map_image": "vite-project/public/images/regions_maps/kyiv_map.svg"
+    },
+    {
+        "id": "cherkasy",
+        "name": "Черкаська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_cherkasy.svg",
+        "map_image": "vite-project/public/images/regions_maps/cherkasy_map.svg"
+    },
+    {
+        "id": "kirovohrad",
+        "name": "Кіровоградська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_kirovohrad.svg",
+        "map_image": "vite-project/public/images/regions_maps/kirovohrad_map.svg"
+    },
+    {
+        "id": "mykolaiv",
+        "name": "Миколаївська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_mykolaiv.svg",
+        "map_image": "vite-project/public/images/regions_maps/mykolaiv_map.svg"
+    },
+    {
+        "id": "odesa",
+        "name": "Одеська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_odesa.svg",
+        "map_image": "vite-project/public/images/regions_maps/odesa_map.svg"
+    },
+    {
+        "id": "sumska",
+        "name": "Сумська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_sumy.svg",
+        "map_image": "vite-project/public/images/regions_maps/sumy_map.svg"
+    },
+    {
+        "id": "poltavska",
+        "name": "Полтавська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_poltava.svg",
+        "map_image": "vite-project/public/images/regions_maps/poltava_map.svg"
+    },
+    {
+        "id": "dnipropetrovska",
+        "name": "Дніпропетровська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_dnipropetrovsk.svg",
+        "map_image": "vite-project/public/images/regions_maps/dnipropetrovsk_map.svg"
+    },
+    {
+        "id": "kharkivska",
+        "name": "Харківська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_kharkiv.svg",
+        "map_image": "vite-project/public/images/regions_maps/kharkiv_map.svg"
+    },
+    {
+        "id": "chernihiv",
+        "name": "Черкаська область",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_chernihiv.svg",
+        "map_image": "vite-project/public/images/regions_maps/chernihiv_map.svg"
+    },
+    {
+        "id": "occupied_territories",
+        "name": "Окуповані території",   
+        "picture_image": "vite-project/public/images/main_regions_images/picture_occupied_territories.svg",
+        "map_image": ""
+    }
+]
