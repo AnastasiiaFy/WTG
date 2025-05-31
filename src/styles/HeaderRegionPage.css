@@ -1,0 +1,62 @@
+/* ХЕДЕР — зробимо його фіксованим, щоб уникнути накладання */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed; /* 🔄 було absolute */
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  background-color: white;
+  border-radius: 20px;
+  padding: 15px 30px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  height: 60px;
+  z-index: 999; /* Щоб було поверх карти */
+}
+/* Відступ для контенту під фіксованим хедером */
+.content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  margin-top: 0px; /* збільшено, щоб не перекривалось */
+}
+
+.header-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Вирівнювання по центру */
+  font-size: 32px; /* Великий розмір для WTG */
+  font-weight: bold;
+  color: black;
+}
+
+.header-logo div:last-child {
+  font-size: 12px; /* Маленький розмір для Where To Go */
+  font-weight: normal;
+  margin-top: -14px; /* Зменшує відступ між текстами */
+}
+
+
+.nav-links {
+  display: flex;
+  gap: 15px;
+}
+
+.nav-links button {
+  background-color: white;
+  border: 2px solid black; /* Чорна окантовка */
+  color: black;
+  font-size: 18px;
+  padding: 10px 15px;
+  border-radius: 60px; /* Заокруглені кути */
+  cursor: pointer;
+  transition: 0.3s;
+  width: 150px;
+}
+
+.nav-links button:hover {
+  background-color: black;
+  color: white;
+}

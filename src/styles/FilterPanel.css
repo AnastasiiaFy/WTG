@@ -1,0 +1,87 @@
+.filter-panel {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  width: 300px;
+  background-color: #dfdede;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.filter-title {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.filter-group {
+  margin-bottom: 15px;
+  color: #000000;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+select,
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+  width: 100%; /* Зробити всі поля однакової ширини */
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #dad8d8;
+  color: #8a8a8a; /* Чорний текст */
+  background-color: #ffffff;
+  box-sizing: border-box;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1); /* Робить іконку чорного кольору у більшості браузерів */
+}
+
+.filter-group select,
+.filter-group .date-input {
+  max-width: 100%;
+}
+
+.date-input {
+  display: block;
+  width: 100%;
+}
+
+.calendar-icon {
+  position: absolute;
+  right: 10px;
+  font-size: 18px;
+  color: black !important;
+}
+
+.price-group .price-inputs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.separator {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.apply-button {
+  width: 70%;
+  align-items: center;
+  background-color: #800000;
+  color: white;
+  padding: 12px;
+  margin-top: 10px;
+  margin-left: 40px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
