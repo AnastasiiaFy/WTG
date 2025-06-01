@@ -3,12 +3,8 @@ import Header from "../components/HeaderRegionPage";
 import FilterPanel from "../components/FilterPanel";
 import { MapComponent } from "../components/MapComponent";
 import Footer from "../components/FooterRegionPage";
-import eventData from "../data/events.json"; 
+import eventData from "../data/events.json";
 
-const events: Event[] = Array.isArray(eventData) ? eventData as Event[] : [];
-
-
-// Інтерфейс події
 interface Event {
   id: string;
   title: string;
@@ -21,36 +17,51 @@ interface Event {
   short_description: string;
   description: string;
   image: string;
-  location: string; /* Додаємо "?" для уникнення помилок */
-  position?: { x: number; y: number }; /* Додаємо позицію для міток */
+  location: string;
+  position?: { x: number; y: number };
   link: string;
 }
 
-// Інтерфейс пропсів для `FilterPanel`
-interface FilterPanelProps {
-  onApplyFilters: (filters: { type: string; date: string; priceFrom: number; priceTo: number }) => void;
-}
+const events: Event[] = Array.isArray(eventData) ? (eventData as Event[]) : [];
 
 const RegionFiltersPage: React.FC = () => {
-  const [filteredEvents, setFilteredEvents] = useState<Event[]>(events.filter(event => event.region_id === "cherkasy"));
-
-  // Фільтрація подій
-  const applyFilters = (filters: { type?: string; date?: string; priceFrom?: number; priceTo?: number }) => {
-  const filtered = events.filter((event: Event) => 
-    event.region_id === "cherkasy" &&
-    (!filters.type || event.type.includes(filters.type)) &&
-    (!filters.date || event.date === filters.date) &&
-    (!filters.priceFrom || event.min_price >= filters.priceFrom) &&
-    (!filters.priceTo || event.max_price <= filters.priceTo)
+  const [filteredEvents, setFilteredEvents] = useState<Event[]>(
+    events.filter((event) => event.region_id === "cherkasy")
   );
 
-  console.log("Знайдені події після фільтрації:", filtered); // Додаємо лог для перевірки
-  setFilteredEvents(filtered);
-};
+  const convertDateFormat = (date: string): string => {
+    if (!date) return "";
+    const [day, month, year] = date.split(".");
+    return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  };
 
+  const applyFilters = (filters: {
+    type: string;
+    date: string;
+    priceFrom: number;
+    priceTo: number;
+  }) => {
+    const filtered = events.filter((event: Event) => {
+      if (event.region_id !== "cherkasy") return false;
+      if (filters.type && event.type !== filters.type) return false;
+      if (filters.date) {
+        const filterDate = filters.date;
+        const eventDate = convertDateFormat(event.date);
+        if (eventDate !== filterDate) return false;
+      }
+      if (filters.priceFrom || filters.priceTo) {
+        const priceFrom = filters.priceFrom || 0;
+        const priceTo = filters.priceTo || Infinity;
+        if (event.min_price > priceTo && event.max_price > priceTo) return false;
+        if (event.max_price < priceFrom && event.min_price < priceFrom)
+          return false;
+      }
+      return true;
+    });
 
-
-
+    console.log("Знайдені події після фільтрації:", filtered);
+    setFilteredEvents(filtered);
+  };
 
   return (
     <div className="region-page">

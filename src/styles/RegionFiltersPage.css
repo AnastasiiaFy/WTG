@@ -1,10 +1,8 @@
-/* Контейнер сторінки */
 .region-page {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
   background-color: transparent;
-  padding-top: 100px; /* 🔼 щоб відступити від фіксованого хедера */
+  padding-top: 100px;
+  position: relative; /* Для позиціонування футера */
 }
-
-

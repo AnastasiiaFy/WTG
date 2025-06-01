@@ -4,7 +4,10 @@ import "../styles/FooterRegionPage.css";
 const FooterRegionPage: React.FC = () => {
   return (
     <footer className="footer">
-      <p>Контакти: 0 800 503 11 | Email: weretogog@gmail.com</p>
+      <h1>Контакти</h1>
+      <p>Онлайн підтримка</p>
+      <p>0 800 503 11</p>
+      <p>weretogo@gmail.com</p>
     </footer>
   );
 };

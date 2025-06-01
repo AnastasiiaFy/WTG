@@ -31,17 +31,17 @@ select,
 input[type="text"],
 input[type="number"],
 input[type="date"] {
-  width: 100%; /* Зробити всі поля однакової ширини */
+  width: 100%;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 15px;
   border: 1px solid #dad8d8;
-  color: #8a8a8a; /* Чорний текст */
+  color: #8a8a8a;
   background-color: #ffffff;
   box-sizing: border-box;
 }
 
 input[type="date"]::-webkit-calendar-picker-indicator {
-  filter: invert(1); /* Робить іконку чорного кольору у більшості браузерів */
+  filter: invert(1);
 }
 
 .filter-group select,
@@ -76,12 +76,17 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .apply-button {
   width: 70%;
   align-items: center;
-  background-color: #800000;
+  background-color: #590000;
   color: white;
   padding: 12px;
   margin-top: 10px;
   margin-left: 40px;
   border: none;
-  border-radius: 10px;
+  border-radius: 15px;
   cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease; /* Додано перехід для ефекту */
+}
+
+.apply-button:hover {
+  background-color: rgb(79, 1, 1); 
 }
