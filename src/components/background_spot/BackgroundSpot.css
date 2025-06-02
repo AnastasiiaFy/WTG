@@ -1,0 +1,5 @@
+.background-image {
+    position: absolute;
+    z-index: 2;
+    pointer-events: none; 
+  }

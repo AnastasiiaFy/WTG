@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 30px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 25px;
+    margin: 0 auto 30px;
+    max-width: 90%;
+    transform: translateY(25px); /* Зміщуємо вниз на 5px */
+  }
+    
+  .nav button {
+    margin: 0 20px;
+    padding: 5px 25px;
+    border-radius: 20px;
+    border: 2px solid #1c1c1c;
+    background-color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    transition: transform 0.4s ease-in-out; /* плавний перехід для трансформації */
+
+    font-family: 'M PLUS 1p', sans-serif;   /* змінити на потрібний шрифт */
+    font-size: 20px;                        /* розмір тексту */
+    color: #000000;                        /* колір тексту */
+    font-weight: 500;
+  }
+  
+  .nav button:hover {
+    background-color: #efeeee;
+    transform: scale(1.1); 
+  }
+
+  .nav button:active {
+    transform: scale(1); 
+  }
+  

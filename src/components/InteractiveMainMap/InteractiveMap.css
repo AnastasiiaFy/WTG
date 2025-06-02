@@ -1,0 +1,11 @@
+.map-container {
+    width: 100%;
+    max-width: 1130px; /* або будь-яке інше значення, що підходить */
+    position: relative;
+  }
+  
+  .main-map-background {
+    width: 100%;
+    height: auto;
+    display: block;
+  }

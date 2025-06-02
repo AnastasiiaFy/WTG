@@ -1,0 +1,18 @@
+.footer {
+    width: 100%;
+    position: relative; /* потрібен для `z-index` */
+    z-index: 1;
+  }
+
+  .contact-section {
+    padding: 60px 110px;
+    max-width: 1000px;
+    text-align: left;
+  }
+
+  .bottom-rectangle {
+    background-color: #d7cecb;
+    margin-top: 70px;
+    height: 80px;
+    width: 100%;
+  }

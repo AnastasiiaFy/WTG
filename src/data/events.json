@@ -10,7 +10,7 @@
         "max_price": 500,
         "short_description": "Щира вистава про пошуки себе через спогади дитинства.",
         "description": "Вистава 'Дзвінок з з дитинства' запрошує глядачів у подорож до власного минулого. Це розповідь про те, як дитячі спогади впливають на наше сьогодення. Через гумор і відвертість вистава допомагає додзвонитися до себе, згадати забуті мрії та знайти зв’язок із внутрішньою дитиною. Для всіх, хто шукає себе.",
-        "image": "vite-project/public/images/posters/Дзвінок_з_дитинства.png",
+        "image": "/images/posters/Дзвінок_з_дитинства.png",
         "location": "Закарпатський обласний український музично-драматичний театр, вул. І. Чендея, 12",
         "link": "https://uzhgorod.kontramarka.ua/uk/stendap-volodimira-sumko-dzvinok-z-ditinstva-103983.html"
     },
@@ -25,7 +25,7 @@
         "max_price": 2190,
         "short_description": "Казка для дорослих із комедійним і жорстоким фіналом.",
         "description": "Вистава 'Конотопська відьма' — це не просто комедія, а глибока казка для дорослих, що розкриває норовливу природу відьом і людські слабкості. Постановка поєднує гумор, містику та несподіваний фінал, який змусить задуматися. Ідеально для тих, хто любить театр із характером.",
-        "image": "vite-project/public/images/posters/Конотопська_відьма.png",
+        "image": "/images/posters/Конотопська_відьма.png",
         "location": "Закарпатський обласний український музично-драматичний театр, вул. І. Чендея, 12",
         "link": "https://uzhgorod.kontramarka.ua/uk/konotopska-vidma-91814.html"
     },
@@ -40,7 +40,7 @@
         "max_price": 0,
         "short_description": "Ярмарок із продукцією місцевих виробників.",
         "description": "Ярмарок 'Зроблено в Ужгороді' запрошує познайомитися з продукцією місцевих майстрів: від смаколиків і напоїв до прикрас і декору ручної роботи. Це чудова нагода провести час із родиною, підтримати локальних виробників і насолодитися атмосферою міста.",
-        "image": "vite-project/public/images/posters/Зроблено_в_Ужгороді.png",
+        "image": "/images/posters/Зроблено_в_Ужгороді.png",
         "location": "Сквер ім. Героїв Майдану",
         "link": "https://zaktour.gov.ua/Події/iarmarok-mistsevykh-vyrobnykiv-zrobleno-v-uzhhorodi/"
     },
@@ -55,7 +55,7 @@
         "max_price": 0,
         "short_description": "Відкриття скульптурної виставки до Дня Конституції.",
         "description": "Виставка скульптур Михайла Ходанича, члена Національної Спілки художників України, присвячена Дню Конституції. Глядачі зможуть ознайомитися з його творами, що поєднують скульптуру, ілюстрацію та дизайн, і відкрити для себе мистецтво Закарпаття.",
-        "image": "vite-project/public/images/posters/Михайло_Ходанич.png",
+        "image": "/images/posters/Михайло_Ходанич.png",
         "location": "Закарпатський обласний художній музей ім. Й. Бокшая",
         "link": "https://bokshaymuseum.com.ua/events/276"
     },
@@ -70,7 +70,7 @@
         "max_price": 0,
         "short_description": "Презентація книги про польсько-українське пограниччя.",
         "description": "Презентація книги Юлії Буйських 'На захід від Бугу' — це антропологічний репортаж, що розкриває життя людей на польсько-українському пограниччі. Книга, створена на основі етнографічних щоденників, розповідає про складність локальних спільнот, їхні історії, почуття та виклики. Подія для тих, хто прагне розуміння і толерантності.",
-        "image": "vite-project/public/images/posters/На_захід_від_Бугу.png",
+        "image": "/images/posters/На_захід_від_Бугу.png",
         "location": "Закарпатська обласна універсальна наукова бібліотека ім. Ф. Потушняка",
         "link": "https://www.books-xxi.com.ua/products/na-zahid-vid-bugu-schodenniki-z-pogranichchya"
     },
@@ -85,7 +85,7 @@
         "max_price": 0,
         "short_description": "Святковий концерт духового оркестру.",
         "description": "Академічний естрадно-духовий оркестр Закарпатської філармонії під керівництвом Володимира Співака презентує патріотичну програму до Дня Конституції. У концерті візьмуть участь заслужений артист України Олександр Садварій, Галина Гаврилко, Софія Григор’єва та Євген Цанько. Чудова нагода відсвяткувати разом.",
-        "image": "vite-project/public/images/posters/Концерт_День_Конституції.png",
+        "image": "/images/posters/Концерт_День_Конституції.png",
         "location": "Сквер біля Закарпатської обласної філармонії, пл. Театральна, 10",
         "link": "https://zaktour.gov.ua/Події/kontsert-do-dnia-konstytutsii-ukrainy/"
     },
@@ -106,7 +106,7 @@
         "max_price": 2190,
         "short_description": "Концерт із хітами Тіни Кароль.",
         "description": "Тіна Кароль запрошує на шоу, що поєднує потужний вокал, пристрасну хореографію та екранне шоу. Понад 30 хітів, включаючи нову романтичну прем’єру, створять незабутню атмосферу. Концерт супроводжують бек-вокалісти Марко Квітка та Нікіта Ломакін, а також хореографія від Діми Жука.",
-        "image": "vite-project/public/images/posters/Тіна_Кароль.png",
+        "image": "/images/posters/Тіна_Кароль.png",
         "location": "Чернівецька філармонія, пл. Філармонії, 10",
         "link": "https://kvytok.co/tina-karol-chernivci/"
     },
@@ -121,7 +121,7 @@
         "max_price": 990,
         "short_description": "Концерт молодого виконавця CHEEV.",
         "description": "CHEEV — молодий виконавець, що поєднує інді та альтернативу з ліричними текстами. Його хіт 'Гарно так' підкорив чарти, а треки 'Мрієшся', 'Печаль' та 'Оберігати' стали основою романтичних відео. Концерт подарує діапазон емоцій — від лірики до драйву, для всіх, хто цінує щирість.",
-        "image": "vite-project/public/images/posters/cheev.png",
+        "image": "/images/posters/cheev.png",
         "location": "Чернівецька філармонія, пл. Філармонії, 10",
         "link": "https://chernivtsi.karabas.com/cheev-106/"
     },
@@ -136,7 +136,7 @@
         "max_price": 1350,
         "short_description": "Симфонічний концерт із музикою з ігор.",
         "description": "Symphony of Games — грандіозна прем’єра, що перенесе вас у світ улюблених комп’ютерних ігор. Понад 40 артистів виконають хіти з 'World of Warcraft', 'Witcher 3', 'Final Fantasy VII' та інших. Симфонічний оркестр і солісти створять незабутню атмосферу для геймерів і меломанів.",
-        "image": "vite-project/public/images/posters/Symphony of Games.png",
+        "image": "/images/posters/Symphony of Games.png",
         "location": "Чернівецький музично-драматичний театр ім. О. Кобилянської, пл. Театральна, 1",
         "link": "https://chernivtsi.karabas.com/ru/symphony-of-games-9/"
     },
@@ -151,7 +151,7 @@
         "max_price": 1100,
         "short_description": "Комедія про любов і добро.",
         "description": "Вистава 'Будьте, як вдома' за п’єсою Жана-Марі Шевре — це весела історія про те, як любов долає перепони, а добрі вчинки змінюють світ. У головних ролях — Ада Роговцева та Ахтем Сеітаблаєв. Постановка присвячена пам’яті Паші Лі, поєднуючи гумор і щемливі моменти.",
-        "image": "vite-project/public/images/posters/Будьте_як_вдома.png",
+        "image": "/images/posters/Будьте_як_вдома.png",
         "location": "Чернівецький музично-драматичний театр ім. О. Кобилянської, пл. Театральна, 4",
         "link": "https://chernovcy.kontramarka.ua/uk/budte-ak-vdoma-104993.html?gad_source=1&gad_campaignid=22530435000&gbraid=0AAAAAqOwLsYGZQk_MV3UTgY5rfSkj1Amo&gclid=CjwKCAjw24vBBhABEiwANFG7y-Y5ov4E18MztkqjNDRNOjeHkMxeDs7Wj4wlZ9GU2bbacVLQhSeCEBoCdgAQAvD_BwE"
     },
@@ -166,7 +166,7 @@
         "max_price": 640,
         "short_description": "Антиутопія Орвелла на сцені.",
         "description": "Вистава '1984' від Театру на Подолі — єдина в Україні адаптація роману Джорджа Орвелла. Це історія про світ без свободи, де правда належить владі. Глядачі зіткнуться з Великим Братом і питанням: 'Скільки пальців ви бачите?' Увага: у виставі звучать постріли.",
-        "image": "vite-project/public/images/posters/1984.png",
+        "image": "/images/posters/1984.png",
         "location": "Чернівецький музично-драматичний театр ім. О. Кобилянської, пл. Театральна, 1",
         "link": "https://concert.ua/uk/event/1984-chernivtsi"
     },
@@ -181,7 +181,7 @@
         "max_price": 490,
         "short_description": "Гумористичне шоу з топ-коміками.",
         "description": "Stadium Night — це вибухове гумористичне шоу, де резиденти Stadium Family, такі як Іван Кухарчук і Анастасія Ткаченко, здивують гострим гумором і музичними номерами. Шоу поєднує актуальні жарти та інтерактив із глядачами, гарантуючи вечір сміху й позитиву.",
-        "image": "vite-project/public/images/posters/Stadium_night.png",
+        "image": "/images/posters/Stadium_night.png",
         "location": "Чернівецька філармонія, пл. Філармонії, 10",
         "link": "https://chernivtsi.karabas.com/humorystychne-shou-stadium-night-8/"
     },
@@ -202,7 +202,7 @@
         "max_price": 990,
         "short_description": "Вечір іспанської гітарної музики.",
         "description": "Концерт Андрія Остапенка перенесе вас у світ іспанської культури через звуки класичної гітари. Віртуозне виконання, романтика і пристрасть створять незабутню атмосферу. Це подорож у серце Іспанії, що залишить глибокі враження.",
-        "image": "vite-project/public/images/posters/Концерт_Андрія_Остапенка.png",
+        "image": "/images/posters/Концерт_Андрія_Остапенка.png",
         "location": "Івано-Франківська філармонія, вул. Леся Курбаса, 3",
         "link": "https://lviv.kontramarka.ua/uk/ispanska-gitara-80082.html"
     },
@@ -217,7 +217,7 @@
         "max_price": 299,
         "short_description": "Вечір живої української музики.",
         "description": "Гомін — це концерт нової хвилі української сцени з Sad Novelist, Скажи щось погане та Пропаща сила. Постпанк, інді-рок і щирі тексти в атмосфері заводських стін Промприладу об’єднають слухачів у спільному моменті.",
-        "image": "vite-project/public/images/posters/Гомін.png",
+        "image": "/images/posters/Гомін.png",
         "location": "Промприлад, вул. Сахарова, 23",
         "link": "https://ivano-frankivsk.karabas.com/homin/"
     },
@@ -232,7 +232,7 @@
         "max_price": 650,
         "short_description": "Альтернативна комедія від Повара Даніла.",
         "description": "Повар Даніл представляє альтернативну комедію в жанрі панк-Гумористичне шоуу. Це авантюрне шоу, де на сцені може статися будь-що. Глядачів чекають несподівані жарти, відверті історії та унікальна енергія. Для тих, хто готовий до нестандартного гумору. 18+.",
-        "image": "vite-project/public/images/posters/Бродячий_Гумористичне шоу.png",
+        "image": "/images/posters/Бродячий_Гумористичне шоу.png",
         "location": "Театр ляльок ім. Марійки Підгірянки, вул. Незалежності, 10а",
         "link": "https://www.brod-stand-up.com/events/ivano-frankivsk-solniy-kontsert-povara-danila"
     },
@@ -247,7 +247,7 @@
         "max_price": 650,
         "short_description": "Акустичний рок-концерт.",
         "description": "Rock залежність — це акустичне шоу, де хіти Scorpions, Linkin Park, Rammstein та інших звучать у новому форматі з гітарою, роялем, віолончеллю та скрипкою. Виступають Фаїна Бекбулатова та оркестр 'Незламний'.",
-        "image": "vite-project/public/images/posters/Rock_залежність.png",
+        "image": "/images/posters/Rock_залежність.png",
         "location": "Івано-Франківська філармонія, вул. Леся Курбаса, 3",
         "link": "https://ivano-frankivsk.karabas.com/akustychnyy-kontsert-rock-zalezhnist-24/"
     },
@@ -262,7 +262,7 @@
         "max_price": 1790,
         "short_description": "Благодійний концерт туру 'Сильні серця'.",
         "description": "Гурт БЕЗ ОБМЕЖЕНЬ презентує тур 'Сильні серця'. Усі концерти благодійні — зібрані кошти йдуть на дрони та авто для ЗСУ. Це більше ніж музика — це єднання заради перемоги.",
-        "image": "vite-project/public/images/posters/БЕЗ_ОБМЕЖЕНЬ.png",
+        "image": "/images/posters/БЕЗ_ОБМЕЖЕНЬ.png",
         "location": "Івано-Франківська філармонія, вул. Леся Курбаса, 3",
         "link": "https://ivano-frankivsk.karabas.com/ru/bez-obmezhen-syl-ni-sertsya-25/"
     },
@@ -284,7 +284,7 @@
         "max_price": 490,
         "short_description": "Концерт пам’яті Ігоря Білозіра.",
         "description": "Концерт 'Наш Білозір – 70!' присвячений пам’яті композитора Ігоря Білозіра. Виступлять 'Ватра 80-х', Піккардійська терція, Мар’ян Шуневич та інші. Хіти 'Мамина світлиця', 'Пшеничне перевесло' і спогади від Богдана Стельмаха створять атмосферу любові до України.",
-        "image": "vite-project/public/images/posters/Білозір.png",
+        "image": "/images/posters/Білозір.png",
         "location": "Палац культури 'Березіль', вул. Миру, 6",
         "link": "https://kasa.com.ua/oksana_bilozir_104177491"
     },
@@ -299,7 +299,7 @@
         "max_price": 450,
         "short_description": "Сольний концерт молодого романтика.",
         "description": "GOLUBENKO — юний артист нової української сцени, чиї пісні 'Мила', 'Знову', 'Холодна весна' закохують із перших нот. Його концерт — це поєднання глибоких текстів, унікального звучання та харизми. Живий звук і експерименти чекають на вас.",
-        "image": "vite-project/public/images/posters/GOLUBENKO.png",
+        "image": "/images/posters/GOLUBENKO.png",
         "location": "Креативний кластер 'Na пошті', вул. Коперника, 4",
         "link": "https://moemisto.ua/te/golubenko-u-ternopoli-8387.html"
     },
@@ -314,7 +314,7 @@
         "max_price": 850,
         "short_description": "Концерт півфіналіста 'Голосу країни'.",
         "description": "Максим Бородін, півфіналіст 'Голосу країни', представить хіти 'Як би не ти', 'Зозуленька', 'Моя країна'. Його проникливі тексти й унікальний тембр створять магію вечора, наповненого любов’ю до України та підтримкою наших захисників.",
-        "image": "vite-project/public/images/posters/Максим_Бородін.png",
+        "image": "/images/posters/Максим_Бородін.png",
         "location": "Палац культури 'Березіль', вул. Миру, 6",
         "link": "https://te.kontramarka.ua/uk/maksim-borodin-93259.html?gad_source=1&gad_campaignid=21093073818&gbraid=0AAAAAqOwLsbntyGMjuTuw0d0VyZ3KuuPJ&gclid=CjwKCAjw24vBBhABEiwANFG7y1dQ1XWNJiQ2ucgSAeynrdwVrAlo3yEdBXhitfH3v0iAzkCRXnGH0hoCfy8QAvD_BwE"
     },
@@ -329,7 +329,7 @@
         "max_price": 690,
         "short_description": "Комедія про таємниці чоловіків.",
         "description": "Вистава 'Про що мовчать чоловіки' — це stand-up монолог Олексія Гнатковського, що розкриває секрети стосунків і буття чоловіків. П’єса Роба Беккера, яка підкорила Бродвей, гарантує дві години гумору, несподіванок і відкриттів для всіх.",
-        "image": "vite-project/public/images/posters/Про_що_мовчать_чоловіки.png",
+        "image": "/images/posters/Про_що_мовчать_чоловіки.png",
         "location": "Тернопільський драмтеатр, вул. Шевченка, 22",
         "link": "https://ternopil.karabas.com/pro-sho-movchat-choloviki-abo-dikun-forever-na-pidtrimku-zsu-90/"
     },
@@ -344,7 +344,7 @@
         "max_price": 450,
         "short_description": "Фестиваль аніме та K-pop культури.",
         "description": "Summer Anime&K-pop Fest — це подія для фанатів аніме, косплею та K-pop. Виступи вокалістів, косплей-дефіле, маркет, благодійні аукціони та концерти зірок із Японії та України зроблять день незабутнім.",
-        "image": "vite-project/public/images/posters/Summer_Anime&K-pop_Fest.png",
+        "image": "/images/posters/Summer_Anime&K-pop_Fest.png",
         "location": "Креативний кластер 'Na пошті', вул. Коперника, 4",
         "link": "https://ternopil.karabas.com/summer-anime-amp-k-pop-fest-2025-10/"
     },
@@ -359,7 +359,7 @@
         "max_price": 600,
         "short_description": "Симфонічний концерт хітів 2000-х.",
         "description": "Концерт 'Symphonic 2000s Vibes' перенесе вас у епоху 2000-х через симфонічні аранжування культових хітів. Виконання оркестром і солістами створить унікальну атмосферу ностальгії й емоцій для всіх поціновувачів музики.",
-        "image": "vite-project/public/images/posters/Symphonic_2000s_Vibes.png",
+        "image": "/images/posters/Symphonic_2000s_Vibes.png",
         "location": "Палац культури 'Березіль', вул. Миру, 6",
         "link": "https://ternopil.karabas.com/kontsert-symphonic-2000s-vibes-4/"
     },
@@ -374,7 +374,7 @@
         "max_price": 800,
         "short_description": "Концерт львівських пісень.",
         "description": "Концерт 'Пісні, народжені у Львові' представить музичну спадщину міста через виступи відомих виконавців. Це подорож у світ львівської культури, де мелодії та тексти розкажуть історії кохання, історії та традицій.",
-        "image": "vite-project/public/images/posters/Пісні_народжені_у_Львові.png",
+        "image": "/images/posters/Пісні_народжені_у_Львові.png",
         "location": "Тернопільський драмтеатр, вул. Шевченка, 22",
         "link": "https://kvytok.co/pisni-narodzheni-u-lvovi-91521/"
     },
@@ -395,7 +395,7 @@
         "max_price": 590,
         "short_description": "Концерт авторів хітів 'Ластівки'.",
         "description": "CHICO & QATOSHI, автори хітів 'Ластівки', 'Допоможе ЗСУ', виступлять із сольним концертом. Їхня музика — це сила, надія та підтримка армії. Глядачів чекають улюблені треки та нові пісні, що об’єднують серця заради перемоги.",
-        "image": "vite-project/public/images/posters/CHICO_QATOSHI.png",
+        "image": "/images/posters/CHICO_QATOSHI.png",
         "location": "РЦ 'Промінь', просп. Президента Грушевського, 2",
         "link": "https://volyn.kontramarka.ua/uk/chico-qatoshi-101367.html"
     },
@@ -410,7 +410,7 @@
         "max_price": 690,
         "short_description": "Мюзикл про Володимира Івасюка.",
         "description": "Мюзикл 'Червона рута' розповідає історію Володимира Івасюка, чиї пісні зробили Україну яскравішою. Це майже біографічна постановка про творчість, любов і боротьбу. Масштабна подія з музикою, що живе в серцях українців.",
-        "image": "vite-project/public/images/posters/Червона_рута.png",
+        "image": "/images/posters/Червона_рута.png",
         "location": "Волинський музично-драматичний театр, Театральний майдан, 1",
         "link": "https://volyn.kontramarka.ua/uk/cervona-ruta-104610.html?gad_source=1&gad_campaignid=22457970406&gbraid=0AAAAAqOwLsanom5gZoMWYA-L6BML4QlAz&gclid=CjwKCAjw_pDBBhBMEiwAmY02NmI5LOT8vPlrdiji3OStYxqDS14qnhCqXQwum7Ydf7Xs3SLlIZavhBoCea0QAvD_BwE"
     },
@@ -425,7 +425,7 @@
         "max_price": 2000,
         "short_description": "Концерт до 30-річчя Артема Будчука.",
         "description": "Артем Будчук із хітами 'Парова машина', 'Над хмарами' святкує 30-річчя великим концертом із друзями: Tember Blanche, KLER та іншими. Аудіовізуальний перформанс із новими піснями та улюбленими треками подарує світло й натхнення.",
-        "image": "vite-project/public/images/posters/Будчук_та_друзі.png",
+        "image": "/images/posters/Будчук_та_друзі.png",
         "location": "РЦ 'Промінь', просп. Президента Грушевського, 2",
         "link": "https://volyn.karabas.com/budchuk-ta-druzi/"
     },
@@ -440,7 +440,7 @@
         "max_price": 1490,
         "short_description": "Нове шоу 'Все буде добре'.",
         "description": "Оля Полякова презентує оновлене шоу 'Все буде добре' з україномовним репертуаром, улюбленими хітами ('Шльопки', 'Королева Ночі') та новими піснями. Це сповідь, підтримка і надія, присвячені кожному українцю.",
-        "image": "vite-project/public/images/posters/Оля_Полякова.png",
+        "image": "/images/posters/Оля_Полякова.png",
         "location": "РЦ 'Промінь', просп. Президента Грушевського, 2",
         "link": "https://volyn.kontramarka.ua/uk/ola-polakova-105351.html?gad_source=1&gad_campaignid=22534145400&gbraid=0AAAAAqOwLsYExZJYYGP8QeFUBrt1PuCsY&gclid=CjwKCAjw_pDBBhBMEiwAmY02NkX52Bw9AJ3enrpo60aqQQW_Tr8c8vfRMYSpbbN2qjM4N-g1kKHJuhoC4mEQAvD_BwE"
     },
@@ -455,7 +455,7 @@
         "max_price": 790,
         "short_description": "Музична комедія з гуцульським колоритом.",
         "description": "Музична комедія 'Гуцулка Ксеня' від Тернопільського драмтеатру розповідає історію американського бізнесмена, який шукає наречену для племінника у Ворохті. Гуцульський гумор, запальні танці та музика Ярослава Барнича створять яскраву атмосферу.",
-        "image": "vite-project/public/images/posters/Гуцулка_Ксеня.png",
+        "image": "/images/posters/Гуцулка_Ксеня.png",
         "location": "Волинський музично-драматичний театр, Театральний майдан, 1",
         "link": "https://volyn.karabas.com/hutsulka-ksenya-muzychna-komediya-5/"
     },
@@ -470,7 +470,7 @@
         "max_price": 500,
         "short_description": "Міжнародний літературний фестиваль.",
         "description": "V Міжнародний літературний фестиваль 'Фронтера' об’єднає письменників, перекладачів і медійників із України та світу. У програмі — поетичні читання, дискусії, Гумористичне шоу і музика. Учасники, такі як Олександр Михед та Ірина Цілик, разом із гостями зберуть кошти для ЗСУ.",
-        "image": "vite-project/public/images/posters/Фронтера.png",
+        "image": "/images/posters/Фронтера.png",
         "location": "Музейний простір 'Окольний замок', вул. Кафедральна, 6",
         "link": "https://concert.ua/uk/event/fronterafest-volyn?fbclid=PAZXh0bgNhZW0CMTEAAacjRdZad3Y5qiuAAK6Pw8nN4STmCDXYx6b9p8280AOUt0psQr-996JX0-7-8Q_aem_nY6nsqqy3zSMfE_LyQCViA"
     },
@@ -493,7 +493,7 @@
         "max_price": 350,
         "short_description": "Триб’ют-концерт Кузьми Скрябіна.",
         "description": "Концерт пам’яті Кузьми Скрябіна від Lviv Performance Orchestra присвячений 10-річчю його творчості. Улюблені хіти 'Люди, як кораблі', 'Мовчати', 'Мамо!' прозвучать у душевній атмосфері. Частина коштів піде на ЗСУ, об’єднуючи всіх заради перемоги.",
-        "image": "vite-project/public/images/posters/Кузьма_Скрябін.png",
+        "image": "/images/posters/Кузьма_Скрябін.png",
         "location": "Хмельницька обласна філармонія, вул. Героїв Маріуполя, 7",
         "link": "https://khmelnytskyi.karabas.com/kontsert-pam-yati-kuz-my-skryabina-5/"
     },
@@ -508,7 +508,7 @@
         "max_price": 350,
         "short_description": "Шоу комедійної імпровізації.",
         "description": "Квадрат-Шоу від театру 'Чорний квадрат' — це півтори години гумору без табу. Глядачі стають режисерами, створюючи сцени разом із топ-імпровізаторами, такими як Сергій Федорчук. Унікальне шоу, що не повторюється, гарантує сміх і несподіванки.",
-        "image": "vite-project/public/images/posters/Чорний_Квадрат.png",
+        "image": "/images/posters/Чорний_Квадрат.png",
         "location": "Хмельницький муздрамтеатр ім. М. Старицького, вул. Соборна, 60",
         "link": "https://concert.ua/uk/event/shou-komediinoi-improvizacii-kvadrat-shou-khmelnytskyi"
     },
@@ -523,7 +523,7 @@
         "max_price": 220,
         "short_description": "Театралізована кантата Карла Орфа.",
         "description": "Carmina Burana — епічна кантата Карла Орфа у виконанні симфонічного оркестру, хору та балету 'Козаки Поділля'. Поєднання середньовічних текстів, сучасної хореографії та потужної музики розкриває теми долі, гріха й природи. Солісти: Степан Дробіт, Фатіма Чергіндзія.",
-        "image": "vite-project/public/images/posters/Carmina_Burana.png",
+        "image": "/images/posters/Carmina_Burana.png",
         "location": "Хмельницька обласна філармонія, вул. Гагаріна, 7",
         "link": "https://moemisto.ua/km/carmina-burana-6952.html"
     },
@@ -538,7 +538,7 @@
         "max_price": 1490,
         "short_description": "Концерт Національної оперети України.",
         "description": "Національна оперета України та Вінницька філармонія представляють шоу 'Кохання та пристрасть'. 50 артистів виконають хіти з мюзиклів, оперет і естради. Диригент Сергій Дідок створить феєрію музики, що поєднає романтику й енергію.",
-        "image": "vite-project/public/images/posters/кохання_та_пристрасть.png",
+        "image": "/images/posters/кохання_та_пристрасть.png",
         "location": "Хмельницька обласна філармонія, вул. Гагаріна, 7",
         "link": "https://kasa.com.ua/nacionalna_opereta_kohannya_ta_pristrast_104177264"
     },
@@ -553,7 +553,7 @@
         "max_price": 980,
         "short_description": "Концерт гурту Kozak System.",
         "description": "Kozak System у великому турі України заряджають енергією й вірою в перемогу. Їхні пісні та промови Івана Леньо — це голос нації, що бореться. Концерти супроводжуються зборами донатів на дрони й пікапи для ЗСУ, об’єднуючи всіх заради спільної мети.",
-        "image": "vite-project/public/images/posters/Kozak_System.png",
+        "image": "/images/posters/Kozak_System.png",
         "location": "Хмельницький муздрамтеатр ім. М. Старицького, вул. Соборна, 60",
         "link": "https://khmelnytskyi.karabas.com/kozak-system-54/"
     },
@@ -574,7 +574,7 @@
         "max_price": 890,
         "short_description": "Феєричне шоу для всієї родини.",
         "description": "«Вартові мрій» — це захоплююче шоу, яке поєднує в собі елементи театру, музики та танцю. Ідеально підходить для сімейного відпочинку.",
-        "image": "vite-project/public/images/posters/Вартові_мрій.png",
+        "image": "/images/posters/Вартові_мрій.png",
         "location": "Палац культури «Дружба народів», бульвар Шевченка, 249",
         "link": "https://ck.kontramarka.ua/uk/vartovi-mrij-95443.html"
     },
@@ -589,7 +589,7 @@
         "max_price": 1490,
         "short_description": "Гумористичне шоу про життя сучасних жінок.",
         "description": "«Дорослі дівчата» — це комедійне шоу, яке розповідає про пригоди та виклики, з якими стикаються сучасні жінки. Гарантовано підніме настрій!",
-        "image": "vite-project/public/images/posters/Дорослі_дівчата.png",
+        "image": "/images/posters/Дорослі_дівчата.png",
         "location": "Палац культури «Дружба народів», бульвар Шевченка, 249",
         "link": "https://ck.kontramarka.ua/uk/dorosli-divcata-102823.html"
     },
@@ -604,7 +604,7 @@
         "max_price": 60,
         "short_description": "Захоплююча екскурсія у світ метеликів з майстер-класами та цікавими фактами.",
         "description": "Виставка метеликів пропонує відвідувачам зануритися в чарівний світ цих прекрасних створінь. У спеціально обладнаному просторі можна буде спостерігати за життям тропічних метеликів, дізнатися цікаві факти про їхнє існування та взяти участь у майстер-класах зі створення магнітів. Це унікальна можливість для дітей та дорослих ближче познайомитися з природою та провести час з користю.",
-        "image": "vite-project/public/images/posters/Виставка_метеликів.png",
+        "image": "/images/posters/Виставка_метеликів.png",
         "location": "Центральний сквер Умані (дерев'яний будинок)",
         "link": "https://in.ck.ua/ua/vystavky/vystavka-tropichnyh-metelykiv"
     },
@@ -619,7 +619,7 @@
         "max_price": 0,
         "short_description": "Благодійний концерт з вокальними, інструментальними та хореографічними номерами.",
         "description": "Уманська дитяча школа мистецтв «Антарес» запрошує на благодійний концерт «Вільні та непереможні». У програмі: вокальні, інструментальні та хореографічні виступи, благодійний аукціон та позитивні емоції. Усі зібрані кошти під час заходу будуть передані на потреби Збройних Сил України. Це чудова можливість підтримати наших захисників та насолодитися творчістю юних талантів.",
-        "image": "vite-project/public/images/posters/Вільні_та_непереможні.png",
+        "image": "/images/posters/Вільні_та_непереможні.png",
         "location": "Концертна зала Уманського державного педагогічного університету імені Павла Тичини, вул. Садова, 28",
         "link": "https://www.instagram.com/uman_art_of_school/"
     },
@@ -634,7 +634,7 @@
         "max_price": 0,
         "short_description": "Фестиваль дитячої творчості з акустичним концертом, конкурсами та благодійним аукціоном.",
         "description": "Holiday Fest — це фестиваль, який поєднує розвиток дитячої творчості та збір коштів на допомогу ЗСУ. У програмі: акустичний концерт українського співака SHUMEI, конкурс сучасного дитячого танцю, виставка дитячих виробів із продажем, дитяче свято фарб Холі, благодійний аукціон та продаж ексклюзивних лотів. Вхід на фестиваль безкоштовний, а всі зібрані кошти будуть передані на підтримку Збройних Сил України.",
-        "image": "vite-project/public/images/posters/Фестиваль_Holiday_Fest.png",
+        "image": "/images/posters/Фестиваль_Holiday_Fest.png",
         "location": "Стадіон Уманського національного університету садівництва",
         "link": "https://uman.karabas.com/10-j-dityachij-festival-farb-ta-suchasnogo-tancyu-centralnoyi-ukrayini-holiday-fest-2024/"
     },
@@ -649,7 +649,7 @@
         "max_price": 990,
         "short_description": "Виступ популярного виконавця YAKTAK.",
         "description": "YAKTAK — український співак і автор пісень, який стрімко здобув популярність завдяки своїм хітам у соцмережах та чартах. У Смілі він представить свою концертну програму з найкращими піснями, які полюбилися слухачам по всій Україні.",
-        "image": "vite-project/public/images/posters/YAKTAK.png",
+        "image": "/images/posters/YAKTAK.png",
         "location": "Міський будинок культури, м. Сміла",
         "link": "https://kasa.com.ua/yaktak_104180386"
     },
@@ -669,7 +669,7 @@
         "max_price": 100,
         "short_description": "Драматична вистава у Рівному.",
         "description": "«Старий Ford Escort темно-синій» — глибока драматична історія про життя, вибори та наслідки, що зворушить кожного глядача.",
-        "image": "vite-project/public/images/posters/Старий_Ford_Escort_темно-синій.png",
+        "image": "/images/posters/Старий_Ford_Escort_темно-синій.png",
         "location": "Рівненський академічний український музично-драматичний театр, м. Рівне",
         "link": "https://rivne.karabas.com/staryi-ford-escort"
     },
@@ -684,7 +684,7 @@
         "max_price": 490,
         "short_description": "Концерт гурту «Жадан і Собаки» у Рівному.",
         "description": "«Жадан і Собаки» — український рок-гурт, який поєднує музику з поезією. Їхній виступ у Рівному стане частиною туру «Нескорені 2025».",
-        "image": "vite-project/public/images/posters/Жадан_і_Собаки.png",
+        "image": "/images/posters/Жадан_і_Собаки.png",
         "location": "Рівненський міський палац культури, м. Рівне",
         "link": "https://rv.kontramarka.ua/uk/neskoreni-2025-zadan-i-sobaki-105316.html?gad_source=1&gad_campaignid=22534144530&gbraid=0AAAAAqOwLsbJoiSXx1efKk68x-ZC-K4K9&gclid=CjwKCAjw_pDBBhBMEiwAmY02Nlu-kLtyUHcA7tECITboxMMTcAgsAschAotOZfBfL2E366UKo6HwfxoC7oUQAvD_BwE"
     },
@@ -699,7 +699,7 @@
         "max_price": 400,
         "short_description": "Концерт Віталія Лобача у місті Березань.",
         "description": "Віталій Лобач — співак, відомий щирими естрадними композиціями, виступить у Березані з літнім концертом. Глядачів чекає камерна атмосфера, душевні пісні та живе спілкування з артистом. Подія стане гарною нагодою для мешканців міста та гостей насолодитися якісною українською музикою.",
-        "image": "vite-project/public/images/posters/Віталій_Лобач.png",
+        "image": "/images/posters/Віталій_Лобач.png",
         "location": "Міський будинок культури, м. Березань",
         "link": "https://berezan.karabas.com/vitaliy-lobach-57/"
     },
@@ -714,7 +714,7 @@
         "max_price": 1490,
         "short_description": "Концерт Олі Полякової у Рівному.",
         "description": "Оля Полякова, відома українська співачка, виступить у Рівному з новою концертною програмою. Глядачів чекає вечір яскравих хітів, енергійного шоу та незабутніх емоцій.",
-        "image": "vite-project/public/images/posters/Оля_Полякова_Рівне.png",
+        "image": "/images/posters/Оля_Полякова_Рівне.png",
         "location": "Рівненський міський палац культури, м. Рівне",
         "link": "https://rv.kontramarka.ua/uk/ola-polakova-vse-bude-dobre-81285.html?gad_source=1&gad_campaignid=21259174692&gbraid=0AAAAAqOwLsZ-M_3aqJXyVneCum9JzsFoK&gclid=CjwKCAjw_pDBBhBMEiwAmY02NmaMnB5uKI6Dsvbv7SfcBkE9FmYKH8BCl4mpZEjcp5PEVLwni_ye0xoCVsMQAvD_BwE"
     },
@@ -734,7 +734,7 @@
         "max_price": 790,
         "short_description": "Презентація нового альбому гурту Курган & Agregat у Вінниці.",
         "description": "Гурт Курган & Agregat представить свій новий альбом у Вінниці. Очікується енергійний виступ з новими треками та улюбленими хітами.",
-        "image": "vite-project/public/images/posters/Курган_&_Agregat.png",
+        "image": "/images/posters/Курган_&_Agregat.png",
         "location": "PIROGOV SKY, м. Вінниця",
         "link": "https://vinnytsia.karabas.com/kurhan-amp-agregat-prezentatsiya-al-bomu/"
     },
@@ -749,7 +749,7 @@
         "max_price": 1350,
         "short_description": "Концерт Pianoбой у Вінниці.",
         "description": "Відомий український музикант Pianoбой виступить у Вінниці з програмою, що включає найкращі композиції та нові пісні.",
-        "image": "vite-project/public/images/posters/Pianoбой.png",
+        "image": "/images/posters/Pianoбой.png",
         "location": "PIROGOV SKY, м. Вінниця",
         "link": "https://afisha.vn.ua/events/pianoboy"
     },
@@ -764,7 +764,7 @@
         "max_price": 700,
         "short_description": "Концерт Volkanov у Хмільнику.",
         "description": "Volkanov — український співак з унікальним тембром та авторською подачею. Його концерт у Хмільнику стане нагодою для місцевих мешканців познайомитися ближче з живим виступом артиста та насолодитися якісною музикою.",
-        "image": "vite-project/public/images/posters/Volkanov.png",
+        "image": "/images/posters/Volkanov.png",
         "location": "Районний будинок культури, м. Хмільник",
         "link": "https://khmilnyk.kontramarka.ua/uk/volkanov-hmilnik-91771.html"
     },
@@ -779,7 +779,7 @@
         "max_price": 200,
         "short_description": "Гумористично-патріотичне шоу від гурту Лісапетний Батальйон.",
         "description": "Гурт «Лісапетний Батальйон» завітає до Ямполя з концертною програмою «Неповторна Україна». Це поєднання українського гумору, народного колориту і патріотичних пісень, яке піднімає настрій і заряджає позитивом.",
-        "image": "vite-project/public/images/posters/Лісапетний_Батальйон.png",
+        "image": "/images/posters/Лісапетний_Батальйон.png",
         "location": "Центр культури і дозвілля, м. Ямпіль",
         "link": "https://vn.kontramarka.ua/uk/lisapetnij-bataljon-94993.html"
     },
@@ -794,7 +794,7 @@
         "max_price": 300,
         "short_description": "Літній концерт у Немирові з сучасною українською музикою.",
         "description": "Концерт твого літа — це святкова подія, яка об'єднає популярних виконавців та молодіжну аудиторію. Вечір драйвової музики, танців та незабутніх емоцій у самому серці Немирова.",
-        "image": "vite-project/public/images/posters/Концерт_твого_літа.png",
+        "image": "/images/posters/Концерт_твого_літа.png",
         "location": "Центр культури і дозвілля, м. Немирів",
         "link": "https://kasa.com.ua/koncert_tvogo_lita_104181197"
     },
@@ -814,7 +814,7 @@
         "max_price": 300,
         "short_description": "Комедійна вистава про любовний трикутник.",
         "description": "Вистава 'Чоловік моєї дружини' — це весела історія про несподівані повороти долі, кохання та ревнощі. Глядачів чекає вечір сміху та гарного настрою.",
-        "image": "vite-project/public/images/posters/Чоловік_моєї_дружини.png",
+        "image": "/images/posters/Чоловік_моєї_дружини.png",
         "location": "Житомирський телецентр",
         "link": "https://zhyt.kontramarka.ua/uk/colovik-moei-druzini-zitomir-104999.html?gad_source=1&gad_campaignid=21093073818&gbraid=0AAAAAqOwLsbzkHZm_s4_WuAhQEJ6HQ5qL&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfhHvNI6DGq8ZqdI5OcNh3FRh1NwU5vai1lSJ4FlAnKlgZnXtERNLJIaArdHEALw_wcB"
     },
@@ -829,7 +829,7 @@
         "max_price": 1290,
         "short_description": "Спецпроєкт команди '30 плюс' з найкращими українськими піснями.",
         "description": "Концерт 'Наші Люди' — це музичний вечір, присвячений українським хітам та виконавцям, які стали символами нації. Спецпроєкт команди '30 плюс' об'єднує улюблені пісні та нові композиції.",
-        "image": "vite-project/public/images/posters/Наші_Люди.png",
+        "image": "/images/posters/Наші_Люди.png",
         "location": "Драматичний театр ім. І. Кочерги, м. Житомир",
         "link": "https://afisha-ukraine.com/concert.php?id=16118"
     },
@@ -844,7 +844,7 @@
         "max_price": 400,
         "short_description": "Концерт Ауріки Ротару в Бердичеві.",
         "description": "Ауріка Ротару завітає до Бердичева з сольним концертом, в якому виконає романтичні та народні пісні. Програма концерту — це щира музика, емоційне спілкування з глядачем та живий звук.",
-        "image": "vite-project/public/images/posters/Ауріка_Ротару.png",
+        "image": "/images/posters/Ауріка_Ротару.png",
         "location": "ПК ім. О. Шабельника, м. Бердичів",
         "link": "https://kasa.com.ua/aurika_rotaru_ta_yivo_bobul_koncert_najkrashte_104066838"
     },
@@ -859,7 +859,7 @@
         "max_price": 500,
         "short_description": "Драматична вистава в Бердичеві.",
         "description": "«Грішна» — глибока емоційна постановка про кохання, зраду та пошуки правди в сучасному світі. Вистава торкається соціально важливих тем і не залишає байдужим жодного глядача.",
-        "image": "vite-project/public/images/posters/Грішна.png",
+        "image": "/images/posters/Грішна.png",
         "location": "Музично-драматичний театр на Європейській, м. Бердичів",
         "link": "https://concert.ua/uk/event/grishna-zhytomyr?gad_source=1&gad_campaignid=20012024363&gbraid=0AAAAADnlcN5A1Cn0nBKmL6hCdPaUWsL_d&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfgfKE9yZ01CZKndPOG7iZRWDvFYQaWKNQddx-Wy5RaiYQY_nCWUynYaAqsmEALw_wcB"
     },
@@ -874,7 +874,7 @@
         "max_price": 650,
         "short_description": "Концерт рок-гурту Beast у Малині.",
         "description": "Іван Ворон і гурт Beast запрошують на потужне музичне шоу в місті Малин. Очікується живий звук, драйв і щирі тексти пісень.",
-        "image": "vite-project/public/images/posters/Іван_Ворон.png",
+        "image": "/images/posters/Іван_Ворон.png",
         "location": "Центр культури і дозвілля, м. Малин",
         "link": "https://malyn.karabas.com/ivan-voron-ta-hurt-beast-2/"
     },
@@ -895,7 +895,7 @@
         "max_price": 650,
         "short_description": "Комедійна вистава від театру 'Чорний квадрат'.",
         "description": "Вистава 'Закохані танцюють у ліжку' — це гумористичний погляд на стосунки між чоловіком і жінкою, сповнений несподіваних поворотів та щирих емоцій.",
-        "image": "vite-project/public/images/posters/Закохані_танцюють.png",
+        "image": "/images/posters/Закохані_танцюють.png",
         "location": "Кіровоградський академічний обласний український музично-драматичний театр ім. М. Л. Кропивницького, м. Кропивницький",
         "link": "https://kropyvnytskyi.karabas.com/ru/chornyy-kvadrat-zakokhani-tantsyuyut-u-lizhku-7/"
     },
@@ -910,7 +910,7 @@
         "max_price": 700,
         "short_description": "Драматична вистава про сімейні стосунки.",
         "description": "Вистава 'Повернення блудного батька' розповідає про складні взаємини в родині, прощення та надію на новий початок.",
-        "image": "vite-project/public/images/posters/Повернення_блудного_батька.png",
+        "image": "/images/posters/Повернення_блудного_батька.png",
         "location": "Кіровоградський академічний обласний український музично-драматичний театр ім. М. Л. Кропивницького, м. Кропивницький",
         "link": "https://kr.kontramarka.ua/uk/povernenna-bludnogo-batka-103948.html?gad_source=1&gad_campaignid=21259214313&gbraid=0AAAAAqOwLsZ_ZBrnY7GLXQAqresJPq1r1&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfhhDTxkcCH6zJ4aIJdMvsUaIO61lKbCI9eTJLxqYMnM5ZKz8G9qAmIaAgyyEALw_wcB"
     },
@@ -925,7 +925,7 @@
         "max_price": 700,
         "short_description": "Гумористичне шоу-шоу від Славіка Мартинюка, Богдана Вахнича та Назара Шебели.",
         "description": "Гумористичне шоу 'Медичні історії' — це веселі та дотепні розповіді про будні медиків, які змушують сміятися до сліз.",
-        "image": "vite-project/public/images/posters/Медичні_історії.png",
+        "image": "/images/posters/Медичні_історії.png",
         "location": "Кіровоградський академічний обласний український музично-драматичний театр ім. М. Л. Кропивницького, м. Кропивницький",
         "link": "https://kropyvnytskyi.karabas.com/ru/medychni-istorii-slavik-martynyuk-bohdan-vakhnych-ta-nazar-shebela-15/"
     },
@@ -940,7 +940,7 @@
         "max_price": 500,
         "short_description": "Класична комедія 'За двома зайцями' у Бобринці.",
         "description": "Вистава 'За двома зайцями' — класика української драматургії, яка вже понад століття дарує глядачам сміх та добрий настрій. Комедія про пройдисвіта Свирид Голохвостого і його пригоди знову оживає на сцені МБК Бобринець.",
-        "image": "vite-project/public/images/posters/За_двома_зайцями.png",
+        "image": "/images/posters/За_двома_зайцями.png",
         "location": "Міський будинок культури, м. Бобринець",
         "link": "https://kr.kontramarka.ua/uk/za-dvoma-zajcamimihajlo-starickij-49287.html?gad_source=1&gad_campaignid=21259214313&gbraid=0AAAAAqOwLsZ_ZBrnY7GLXQAqresJPq1r1&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfivRkL5NtDmC6iR1IQqT7WpBeS7pUvxrgvaJnhUtVwV92DikdiBC34aAsJ6EALw_wcB"
     },
@@ -955,7 +955,7 @@
         "max_price": 800,
         "short_description": "Сольний концерт MamaRika в Олександрії.",
         "description": "Популярна українська співачка MamaRika завітає до Олександрії з потужним лайв-шоу, у якому прозвучать її хіти та нові треки. Глядачів чекає драйв, відверті тексти й жива енергія сцени.",
-        "image": "vite-project/public/images/posters/MamaRika.png",
+        "image": "/images/posters/MamaRika.png",
         "location": "Палац культури «Світлопільський», м. Олександрія",
         "link": "https://oleksandriya.karabas.com/mamarika-21/"
     },
@@ -976,7 +976,7 @@
         "max_price": 900,
         "short_description": "Концерт гурту ADAM у Миколаєві.",
         "description": "Гурт ADAM виступить у Миколаєві з новою концертною програмою, презентуючи свої найкращі хіти та нові композиції.",
-        "image": "vite-project/public/images/posters/ADAM.png",
+        "image": "/images/posters/ADAM.png",
         "location": "Концерт-хол «Юність», м. Миколаїв",
         "link": "https://mykolaiv.kontramarka.ua/uk/adam-104614.html"
     },
@@ -991,7 +991,7 @@
         "max_price": 400,
         "short_description": "Концерт Сергія Мироненка в Баштанці.",
         "description": "Сергій Мироненко & BAND завітають до Баштанки з драйвовим живим виступом, у якому прозвучать хіти української та авторської сцени.",
-        "image": "vite-project/public/images/posters/Сергій_Мироненко.png",
+        "image": "/images/posters/Сергій_Мироненко.png",
         "location": "Баштанський МБК, м. Баштанка",
         "link": "https://bashtanka.karabas.com/serhiy-myronenko-amp-band-53/"
     },
@@ -1006,7 +1006,7 @@
         "max_price": 690,
         "short_description": "Шоу VAHA в рамках туру «Вай-вай».",
         "description": "Гурт VAHA вирушає у всеукраїнський тур і завітає до Південноукраїнська з енергійною програмою 'Вай-вай-тур', яка поєднує регі, поп та естраду.",
-        "image": "vite-project/public/images/posters/Вай-вай-тур.png",
+        "image": "/images/posters/Вай-вай-тур.png",
         "location": "ДК «Енергетик», м. Південноукраїнськ",
         "link": "https://pivdennoukrayinsk.karabas.com/vaha-vay-vay-tur-7/"
     },
@@ -1021,7 +1021,7 @@
         "max_price": 790,
         "short_description": "Магічне шоу для всієї родини.",
         "description": "Magic Brothers привезуть у Південноукраїнськ шоу ілюзій та розваг нового покоління — 'ДИВОVISION 2'. Це вибух фантазії, візуальних трюків і ефектів.",
-        "image": "vite-project/public/images/posters/ДИВОVISION.png",
+        "image": "/images/posters/ДИВОVISION.png",
         "location": "ДК «Енергетик», м. Південноукраїнськ",
         "link": "https://pivdennoukrayinsk.karabas.com/ilyuzion-shou-vid-magic-brothers-dyvovision-2-7/"
     },
@@ -1036,7 +1036,7 @@
         "max_price": 700,
         "short_description": "KOZAK SIROMAHA з концертною програмою в Південноукраїнську.",
         "description": "Концерт KOZAK SIROMAHA — це завжди яскраве шоу з українською душею, яке заряджає енергією кожного глядача.",
-        "image": "vite-project/public/images/posters/KOZAK_SIROMAHA.png",
+        "image": "/images/posters/KOZAK_SIROMAHA.png",
         "location": "ДК «Енергетик», м. Південноукраїнськ",
         "link": "https://pivdennoukrayinsk.karabas.com/kozak-siromaha-29/"
     },
@@ -1056,7 +1056,7 @@
         "max_price": 540,
         "short_description": "Найбільший фестиваль попкультури в Україні для фанатів відеоігор, кіно, манги, коміксів і косплею.",
         "description": "FANCON — це місце, де можна бути собою серед своїх і долучитися до створення колекції фантастичних вражень! Окрема мета — збір коштів на потреби ЗСУ. На вас чекають тематичні локації, Cosplay & K-Pop Cover Dance Show з призовим фондом 160 000 грн, презентації коміксів, манги, відеоігор, зустрічі з авторами, настільні ігри, Geek Bazaar та фудкорт.",
-        "image": "vite-project/public/images/posters/fancon.png",
+        "image": "/images/posters/fancon.png",
         "location": "Міжнародний Виставковий Центр, Броварський проспект 15",
         "link": "https://fancon.com.ua"
     },
@@ -1071,7 +1071,7 @@
         "max_price": 2900,
         "short_description": "Глибоке занурення в жіночність і саморозвиток.",
         "description": "Фестиваль об’єднує експертів, спікерів і тілесних практиків для трансформації та розвитку жінок. У програмі: 10 локацій за сферами життя, трансформаційні ігри, консультації астрологів, тарологів, тілесні практики (цвяхостояння, кундаліні активація), виступи спікерів, призи та подарунки.",
-        "image": "vite-project/public/images/posters/womanocean.png",
+        "image": "/images/posters/womanocean.png",
         "location": "Гідропарк",
         "link": "https://womanocean.space"
     },
@@ -1086,7 +1086,7 @@
         "max_price": 750,
         "short_description": "Жіноча вистава про чоловіків і сердечні справи.",
         "description": "Вистава за п’єсою Габріелла Баріллі. Три молоді жінки напередодні свята обговорюють сердечні справи, доходячи до несподіваних висновків. Легка, але глибока комедія про стосунки.",
-        "image": "vite-project/public/images/posters/Медовий_місяць.png",
+        "image": "/images/posters/Медовий_місяць.png",
         "location": "Державний податковий університет, Ірпінь",
         "link": "https://irpin.karabas.com/medovyy-misyats-1/"
     },
@@ -1101,7 +1101,7 @@
         "max_price": 780,
         "short_description": "Іскрометна комедія положень.",
         "description": "Комедія про заплутані стосунки, де після бурхливого парубоцького вечора наречений прокидається з незнайомкою. Сюжет розвивається стрімко, змушуючи сміятися крізь сльози.",
-        "image": "vite-project/public/images/posters/Третій_зайвий.png",
+        "image": "/images/posters/Третій_зайвий.png",
         "location": "РБК «Енергетик», Вишгород",
         "link": "https://vyshhorod.karabas.com/tretiy-zayvyy-10/"
     },
@@ -1116,7 +1116,7 @@
         "max_price": 450,
         "short_description": "Паперова рапсодія про бюрократію та людські долі.",
         "description": "Вистава італійського режисера Маттео Спіацці у жанрі комедії дель арте. Без слів розповідає про людей, застряглих у бюрократичній машині від 1970-х до часів незалежності. Трагедія і комедія масок про любов, кар’єру та мрії.",
-        "image": "vite-project/public/images/posters/Моменти:Momenti.png",
+        "image": "/images/posters/Моменти:Momenti.png",
         "location": "Київський академічний театр драми і комедії, просп. Броварський, 25",
         "link": "https://kontramarka.ua/uk/momentimomenti-68284.html?gad_source=1&gad_campaignid=18381321338&gbraid=0AAAAACysgHun06imDdvo-X9UtkbntcDcQ&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfjPQBxR-Q_7prdAjy8xZaqCwIN2heb3y1MknFI6Y-yNuPKmAnIba_saAql_EALw_wcB"
     },
@@ -1131,7 +1131,7 @@
         "max_price": 4000,
         "short_description": "Найбільший музичний фестиваль України.",
         "description": "Atlas Festival 2025 об’єднує, надихає та допомагає ЗСУ. Хедлайнер — гурт «Бумбокс». У програмі: Dantes, YAKTAK, KOLA, Parfeniuk та інші. Музичне шоу, фудкорти та благодійність.",
-        "image": "vite-project/public/images/posters/atlasfestival.png",
+        "image": "/images/posters/atlasfestival.png",
         "location": "Blockbuster Mall, просп. Степана Бандери, 36",
         "link": "https://atlasfestival.com"
     },
@@ -1151,7 +1151,7 @@
         "max_price": 680,
         "short_description": "Детективна комедія про жінок і кохання.",
         "description": "За мотивами п’єси Р. Тома '8 жінок'. Вісім жінок під підозрою через зникнення єдиного чоловіка в домі. Феєрверк акторських робіт, музика, танці та непередбачуваний фінал.",
-        "image": "vite-project/public/images/posters/Серцеїдки.png",
+        "image": "/images/posters/Серцеїдки.png",
         "location": "Міський Будинок культури, Прилуки",
         "link": "https://pryluky.karabas.com/sertseidky-15/"
     },
@@ -1166,7 +1166,7 @@
         "max_price": 490,
         "short_description": "Презентація нового альбому гурту.",
         "description": "Гурт Курган і Agregat презентує нові пісні ('Оркестр Абізян', 'Заговор Предметів', 'Світлячки') та старі хіти. 50% прибутку — на потреби ЗСУ. Енергійна вечірка з драйвом.",
-        "image": "vite-project/public/images/posters/kurgan-i-agregat-chernigiv.png",
+        "image": "/images/posters/kurgan-i-agregat-chernigiv.png",
         "location": "Чернігівський міський Палац культури, вул. Івана Мазепи, 23",
         "link": "https://concert.ua/uk/event/kurgan-i-agregat-chernigiv"
     },
@@ -1181,7 +1181,7 @@
         "max_price": 650,
         "short_description": "Смішні історії з медицини.",
         "description": "Славік Мартинюк, Богдан Вахнич і Назар Шебела діляться кумедними історіями з роботи в психлікарні, швидкій і травмпункті. Відверто про медицину.",
-        "image": "vite-project/public/images/posters/medychni-istorii.png",
+        "image": "/images/posters/medychni-istorii.png",
         "location": "Чернігівський Обласний академічний театр ім. Т.Г. Шевченка",
         "link": "https://chernihiv.karabas.com/medychni-istorii-slavik-martynyuk-bohdan-vakhnych-ta-nazar-shebela-19/"
     },
@@ -1196,7 +1196,7 @@
         "max_price": 1790,
         "short_description": "Концерт зірки української сцени.",
         "description": "Тіна Кароль виконає хіти ('Вільна', 'Скандал', 'Україна – це ти') з унікальним вокалом у 4,5 октави. Емоційний концерт від Народної артистки України.",
-        "image": "vite-project/public/images/posters/Тіна_Кароль_Чернігів.png",
+        "image": "/images/posters/Тіна_Кароль_Чернігів.png",
         "location": "Чернігівський міський Палац культури, вул. Івана Мазепи, 23 ",
         "link": "https://chernihiv.karabas.com/tina-karol-149/"
     },
@@ -1218,7 +1218,7 @@
         "max_price": 450,
         "short_description": "Акустичні рок-хіти у новому звучанні.",
         "description": "Концерт з акустичними версіями хітів Scorpions, Linkin Park, Metallica, Rammstein та інших. Поєднання гітар, рояля, віолончелі та скрипки для вибуху емоцій.",
-        "image": "vite-project/public/images/posters/Rock_залежність copy.png",
+        "image": "/images/posters/Rock_залежність copy.png",
         "location": "Національний академічний театр ім. М.С. Щепкіна",
         "link": "https://sumy.karabas.com/akustychnyy-kontsert-rock-zalezhnist/"
     },
@@ -1233,7 +1233,7 @@
         "max_price": 1390,
         "short_description": "Благодійний тур гурту Без Обмежень.",
         "description": "Масштабний тур 'Сильні серця' з новими піснями та хітами ('Без неї ніяк', 'Зорі запалали'). Усі концерти — благодійні, на підтримку ЗСУ.",
-        "image": "vite-project/public/images/posters/Сильні_серця.png",
+        "image": "/images/posters/Сильні_серця.png",
         "location": "Національний академічний театр ім. М.С. Щепкіна",
         "link": "https://sumy.karabas.com/bez-obmezhen-silni-cercya-44/."
     },
@@ -1248,7 +1248,7 @@
         "max_price": 450,
         "short_description": "Концерт українського виконавця.",
         "description": "Volkanov представить свої хіти та нові пісні. Енергійний виступ від артиста, який підкорює серця слухачів мелодійними композиціями.",
-        "image": "vite-project/public/images/posters/Volkanov_Суми.png",
+        "image": "/images/posters/Volkanov_Суми.png",
         "location": "Національний академічний театр ім. М.С. Щепкіна",
         "link": "https://sumy.kontramarka.ua/uk/volkanov-sumi-90235.html"
     },
@@ -1268,7 +1268,7 @@
         "max_price": 400,
         "short_description": "Трагікомедія за п’єсою Ніла Саймона.",
         "description": "Дві історії про подружні пари в номері готелю Беверлі Гіллз. 'Гості з Філадельфії' і 'Гості з Лондона' розкривають глибину почуттів через трагікомічні ситуації.",
-        "image": "vite-project/public/images/posters/Каліфорнійський_готель.png",
+        "image": "/images/posters/Каліфорнійський_готель.png",
         "location": "Арт-сховище КУЛЬТУРА",
         "link": "https://kharkiv.internet-bilet.ua/uk/kaliforniyskiy-gotel"
     },
@@ -1283,7 +1283,7 @@
         "max_price": 350,
         "short_description": "Гумористичне шоу про традиції та коріння.",
         "description": "Джейхун Сафаров копає глибше в тему традицій, які формують нас. Смішно, незручно, щемко — про зв’язок із корінням і самим собою.",
-        "image": "vite-project/public/images/posters/Джейхуна_Сафарова.png",
+        "image": "/images/posters/Джейхуна_Сафарова.png",
         "location": "EvoHUB",
         "link": "https://kharkiv.karabas.com/v-dykykh-umovakh-novyy-sol-nyy-kontsert-dzheykhuna-safarova-11/"
     },
@@ -1298,7 +1298,7 @@
         "max_price": 1690,
         "short_description": "Музична подорож з Олегом Шумеєм.",
         "description": "SHUMEI виконає хіти ('Тривога', 'Біля тополі'), що стали символами незламності. Емоційні мелодії, які об’єднують серця українців.",
-        "image": "vite-project/public/images/posters/SHUMEI.png",
+        "image": "/images/posters/SHUMEI.png",
         "location": "Театрально-концертний центр",
         "link": "https://kharkov.kontramarka.ua/uk/shumei-tour-2025-105108.html?gad_source=1&gad_campaignid=22530435030&gbraid=0AAAAAqOwLsZS484f2gGcgClb5UHbm-fSZ&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfgMwxeleudQjuT7cTTFDtMPJgXhn9w6krA1qvWCV75NyT3mnh-AT9UaAtCKEALw_wcB"
     },
@@ -1313,7 +1313,7 @@
         "max_price": 400,
         "short_description": "Містичне фентезі за Гофманом.",
         "description": "Фея наділяє Цахеса магічною силою впливу на людей. Вистава в стилі готичного романтизму з гумором і естетичною насолодою.",
-        "image": "vite-project/public/images/posters/Крихітка_Цахес.png",
+        "image": "/images/posters/Крихітка_Цахес.png",
         "location": "Art Area 'ДК'",
         "link": "https://kharkiv.internet-bilet.ua/uk/krihitka-tsahes"
     },
@@ -1328,7 +1328,7 @@
         "max_price": 690,
         "short_description": "Альтернативна комедія від Повара Даніла.",
         "description": "Повар Даніл представляє панк-комедію — непередбачуваний виступ, де може статися будь-що. Авантюра для тих, хто готовий до несподіванок.",
-        "image": "vite-project/public/images/posters/Повар_Даніл.png",
+        "image": "/images/posters/Повар_Даніл.png",
         "location": "Шоу Ресторан 'AltBier' ",
         "link": "https://www.brod-stand-up.com/events/kharkiv-solniy-kontsert-povara-danila"
     },
@@ -1348,7 +1348,7 @@
         "max_price": 950,
         "short_description": "Мюзикл про Розстріляне відродження.",
         "description": "Історичний мюзикл про митців (Курбас, Хвильовий, Тичина) поєднує хіп-хоп, драму і документалістику. Емоційна розповідь про українську культуру, яку побачили 60 000 людей.",
-        "image": "vite-project/public/images/posters/Ти_Романтика.png",
+        "image": "/images/posters/Ти_Романтика.png",
         "location": "'Листопад'",
         "link": "https://poltava.karabas.com/mur-myuzykl-ty-romantyka-vystava-nazhyvo/"
     },
@@ -1363,7 +1363,7 @@
         "max_price": 1090,
         "short_description": "Класична українська драма.",
         "description": "Вистава за твором Панаса Мирного. Трагічна історія кохання Лимерівни, що розкриває силу почуттів і драматизм людських доль.",
-        "image": "vite-project/public/images/posters/Лимерівна.png",
+        "image": "/images/posters/Лимерівна.png",
         "location": "Театр імені М.В. Гоголя",
         "link": "https://concert.ua/uk/event/limerivna-poltava?gad_source=1&gad_campaignid=19551061172&gbraid=0AAAAADnlcN47sL3vnjlXJpHeEL7E6fOXj&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfgqsYxzojPM735MSgw0lb8gYMG15Yqr5IR4T32zz4BeiNZLZnRXGNcaAmrREALw_wcB"
     },
@@ -1378,7 +1378,7 @@
         "max_price": 850,
         "short_description": "Вистава про Квітку Цісик.",
         "description": "Світова прем’єра про Квітку Цісик — співачку з українським серцем. Історія боротьби з хворобою, кохання та створення українських альбомів, що подарували їй вічність.",
-        "image": "vite-project/public/images/posters/KVITKA.png",
+        "image": "/images/posters/KVITKA.png",
         "location": "Театр імені М.В. Гоголя",
         "link": "https://poltava.karabas.com/kvitka-lehenda-ukrains-koi-pisni-1/"
     },
@@ -1393,7 +1393,7 @@
         "max_price": 540,
         "short_description": "Унікальне шоу тіней.",
         "description": "Театр Тіней 'Teulis' поєднує хореографію, акробатику та світлові ефекти, створюючи магічні історії, що зачаровують глядачів.",
-        "image": "vite-project/public/images/posters/Teulis.png",
+        "image": "/images/posters/Teulis.png",
         "location": "Центр культури та дозвілля",
         "link": "https://pl.kontramarka.ua/uk/teatr-tinej-teulis-100111.html"
     },
@@ -1408,7 +1408,7 @@
         "max_price": 850,
         "short_description": "Гуцульська музична комедія.",
         "description": "Класична комедія про американця Яро, який шукає українську наречену. Гуцульський колорит, гумор, танці та музика Ярослава Барнича.",
-        "image": "vite-project/public/images/posters/Гуцулка_Ксеня_ПОлтава.png",
+        "image": "/images/posters/Гуцулка_Ксеня_ПОлтава.png",
         "location": "'Листопад'",
         "link": "https://poltava.karabas.com/ru/hutsulka-ksenya-muzychna-komediya-2/"
     },
@@ -1427,7 +1427,7 @@
         "max_price": 450,
         "short_description": "Комічний балет про кохання.",
         "description": "Балет про закоханих Лізу і Колена, які долають перешкоди жадібної матері. Весела історія з дотепними витівками та щасливим фіналом.",
-        "image": "vite-project/public/images/posters/daremna-obmezhenist.png",
+        "image": "/images/posters/daremna-obmezhenist.png",
         "location": "Дніпровський Академічний Театр Опери та балету",
         "link": "https://dnipro.internet-bilet.ua/uk/daremna-obmezhenist"
     },
@@ -1442,7 +1442,7 @@
         "max_price": 500,
         "short_description": "Рок-хіти в оперному виконанні.",
         "description": "Хіти 'Океану Ельзи', 'The Hardkiss', 'Led Zeppelin', 'Scorpions' та класика Моцарта і Вівальді в новій інтерпретації від солістів, хору та оркестру.",
-        "image": "vite-project/public/images/posters/Рок_в_опері.png",
+        "image": "/images/posters/Рок_в_опері.png",
         "location": "Дніпровський Академічний Театр Опери та балету",
         "link": "https://dnipro.karabas.com/rok-v-operi-datob-9/"
     },
@@ -1457,7 +1457,7 @@
         "max_price": 900,
         "short_description": "Шекспір як феміністичний детектив.",
         "description": "Сучасний 'Макбет' з жіночими головними ролями. Брехня, амбіції та пророцтва ведуть до хаосу. Провокативна і емоційна вистава.",
-        "image": "vite-project/public/images/posters/Макбет.png",
+        "image": "/images/posters/Макбет.png",
         "location": "Театр драми та комедії",
         "link": "https://dnipro.internet-bilet.ua/uk/makbet"
     },
@@ -1472,7 +1472,7 @@
         "max_price": 750,
         "short_description": "Музика під відкритим небом.",
         "description": "Симфонічний оркестр на даху Менори виконає класичні та сучасні твори. Атмосфера тепла, сонця та музичної насолоди.",
-        "image": "vite-project/public/images/posters/Symphony_Orchestra.png",
+        "image": "/images/posters/Symphony_Orchestra.png",
         "location": "Центр 'Менора'",
         "link": "https://dnipro.karabas.com/en/son-litn-oi-nochi-symphony-orchestra-na-dakhu-menory/"
     },
@@ -1487,8 +1487,189 @@
         "max_price": 450,
         "short_description": "Драма про стосунки та прощення.",
         "description": "За п’єсою Лаури Черняускайте. Історія Фелікса і Люче про зв’язок минулого й майбутнього, відповідальність і внутрішнє примирення.",
-        "image": "vite-project/public/images/posters/Люче_і_Фелікс.png",
+        "image": "/images/posters/Люче_і_Фелікс.png",
         "location": "Театр драми та комедії",
         "link": "https://dnepr.kontramarka.ua/uk/luce-i-feliks-88488.html"
-    }  
+    },
+
+
+
+
+
+
+
+    {
+        "id": "event_095",
+        "title": "Пісні, народжені у Львові",
+        "region_id": "lvivska",
+        "type": "Концерт",
+        "date": "24.09.2025",
+        "time": "18:00",
+        "min_price": 100,
+        "max_price": 100,
+        "short_description": "Концерт українських пісень у виконанні місцевих виконавців.",
+        "description": "24 вересня 2025 року у Жовкві відбудеться концерт «Пісні, народжені у Львові». Це захід, присвячений українській музиці, де будуть виконуватись пісні, що стали символами культурної спадщини Львова та України.",
+        "image": "/images/posters/Пісні_народжені_у_Львові copy.png",
+        "location": "Жовква, Народний дім",
+        "link": "https://zhovkva.karabas.com/ru/pisni-narodzheni-u-l-vovi/"
+      },
+      {
+        "id": "event_096",
+        "title": "Оксана Білозір",
+        "region_id": "lvivska",
+        "type": "Концерт",
+        "date": "21.06.2025",
+        "time": "19:00",
+        "min_price": 200,
+        "max_price": 200,
+        "short_description": "Концерт Оксани Білозір у Стрию.",
+        "description": "21 червня 2025 року Оксана Білозір представить у Стрию свою програму, яка включатиме як її найкращі хіти, так і нові композиції, що дозволить глядачам насолодитись її неймовірним голосом та емоційним виконанням.",
+        "image": "/images/posters/oksana-bilozir.png",
+        "location": "Стрий, Стрийський міський будинок культури",
+        "link": "https://stryy.karabas.com/oksana-bilozir-35/"
+      },
+      {
+        "id": "event_097",
+        "title": "YAGODA",
+        "region_id": "lvivska",
+        "type": "Концерт",
+        "date": "15.07.2025",
+        "time": "19:00",
+        "min_price": 450,
+        "max_price": 790,
+        "short_description": "Концерт YAGODA у Львові.",
+        "description": "15 липня 2025 року на Терасі !FESTrepublic відбудеться концерт гурту YAGODA. Це чудова можливість насолодитись піснями, що поєднують елементи інді, поп та електронної музики. Очікується незабутня атмосфера та нові треки.",
+        "image": "/images/posters/yagoda.png",
+        "location": "Львів, Тераса !FESTrepublic",
+        "link": "https://concert.ua/uk/event/yagoda-lviv"
+      },
+      {
+        "id": "event_098",
+        "title": "Один в Каное",
+        "region_id": "lvivska",
+        "type": "Концерт",
+        "date": "12.06.2025",
+        "time": "19:00",
+        "min_price": 790,
+        "max_price": 1900,
+        "short_description": "Концерт гурту «Один в Каное» у Львові.",
+        "description": "12 червня 2025 року в Malevich Concert Arena відбудеться концерт популярного українського гурту «Один в Каное». Очікуйте емоційну атмосферу, глибокі пісні та неймовірну енергетику від одного з найкращих колективів сучасної української музики.",
+        "image": "/images/posters/Один_в_Каное.png",
+        "location": "Львів, Malevich Concert Arena",
+        "link": "https://lviv.kontramarka.ua/uk/odin-v-kanoe-104835.html?gad_source=1&gad_campaignid=22491928292&gbraid=0AAAAAqOwLsbA-7NG-YyW_2CKmdqg7zfUr&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzs22D8fFRQyRWvXSAoAlnZyfQ-4ocXXe3n6FxgaVXRnr_SiH5xUeshoC7msQAvD_BwE"
+      },
+      {
+        "id": "event_099",
+        "title": "Степан Гіга. Платинові хіти",
+        "region_id": "lvivska",
+        "type": "Концерт",
+        "date": "25.11.2025",
+        "time": "19:00",
+        "min_price": 0,
+        "max_price": 0,
+        "short_description": "Ювілейний концерт Степана Гіги.",
+        "description": "25 листопада 2025 року у Львівській національній опері відбудеться концерт Степана Гіги — символа української естради. Він представить свої платинові хіти, які стали класикою української музики, у виконанні оркестру та супроводі балету.",
+        "image": "/images/posters/Степан_Гіга_Платинові хіти.png",
+        "location": "Львівська національна опера",
+        "link": "https://lviv.kontramarka.ua/uk/stepan-giga-platinovi-hiti-lviv-91544.html"
+      },
+      {
+        "id": "event_100",
+        "title": "Lord of the Rings Symphony",
+        "region_id": "lvivska",
+        "type": "Концерт",
+        "date": "17.06.2025",
+        "time": "19:00",
+        "min_price": 490,
+        "max_price": 490,
+        "short_description": "Симфонічний концерт за мотивами «Володаря перснів».",
+        "description": "Концерт «Lord of the Rings Symphony» у Львівській національній опері представить музику з культової кінотрилогії «Володар перснів» у виконанні симфонічного оркестру. Відвідувачі зможуть насолодитися епічними композиціями Говарда Шора в живому виконанні.",
+        "image": "/images/posters/Lord_of_the_Rings_Symphony.png",
+        "location": "Львівська національна опера",
+        "link": "https://lviv.kontramarka.ua/uk/lord-of-the-rings-symphony-101823.html?gad_source=1&gad_campaignid=22179706950&gbraid=0AAAAAqOwLsY9VSFHKowrHPUTlfl1GFnaq&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzryvlvsIReacHjB0eOtYPK0NfwkqCM1mm8DrteMI-YYa847OSo4tLxoCy1AQAvD_BwE"
+      },
+
+
+
+
+
+
+
+
+      
+      {
+        "id": "event_101",
+        "title": "Жизель (ОНАТОБ)",
+        "region_id": "odesa",
+        "type": "Вистава",
+        "date": "12.06.2025",
+        "time": "17:00",
+        "min_price": 0,
+        "max_price": 0,
+        "short_description": "Балет «Жизель» в Одеському театрі Опери та Балету.",
+        "description": "Один з найвідоміших балетів у світі — «Жизель», виконуваний у Одеському театрі Опери та Балету. Цей романтичний балет, що розповідає про кохання та трагічні обставини, завжди притягує увагу своєю емоційною глибиною і чудовими хореографічними постановками.",
+        "image": "/images/posters/Жизель(ОНАТОБ).png",
+        "location": "Одеський театр Опери та Балету",
+        "link": "https://odesa.karabas.com/zhyzel-onatob-4/"
+      },
+      {
+        "id": "event_102",
+        "title": "Мадам Баттерфляй",
+        "region_id": "odesa",
+        "type": "Вистава",
+        "date": "20.06.2025",
+        "time": "17:00",
+        "min_price": 0,
+        "max_price": 0,
+        "short_description": "Опера «Мадам Баттерфляй» в Одеському театрі Опери та Балету.",
+        "description": "Опера Джакомо Пуччіні «Мадам Баттерфляй» — одна з найвідоміших опер, що розповідає історію трагедії кохання японської гейші і американського офіцера. Вистава в Одеському театрі Опери та Балету переносить глядачів у Японію на початок ХХ століття, де розгортаються емоційно насичені події.",
+        "image": "/images/posters/Мадам_Баттерфляй.png",
+        "location": "Одеський театр Опери та Балету",
+        "link": "https://odesa.kontramarka.ua/uk/madam-batterflaj-6660.html?gad_source=1&gad_campaignid=21259184280&gbraid=0AAAAAqOwLsYlLk4m-vTmmu2YH_kZ7mjvK&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzj3WQUMR_VcW8Jo3Tu7k0oJjsxfWeo6ul9gS_FPhSsMZ54z1qJTLXxoC2SMQAvD_BwE"
+      },
+      {
+        "id": "event_103",
+        "title": "Володимир Гришко «Пісні для серця»",
+        "region_id": "odesa",
+        "type": "Вистава",
+        "date": "21.06.2025",
+        "time": "18:00",
+        "min_price": 350,
+        "max_price": 350,
+        "short_description": "Концерт Володимира Гришка «Пісні для серця».",
+        "description": "Відомий український тенор Володимир Гришко представить свій концерт «Пісні для серця» в Одесі. Програма концерту включатиме найкращі хіти української та світової естради, а також популярні оперні арії, які не залишать байдужими навіть найвибагливіших слухачів.",
+        "image": "/images/posters/Володимир_Гришко.png",
+        "location": "Одеська обласна філармонія",
+        "link": "https://odesa.kontramarka.ua/uk/volodimir-grisko-pisni-dla-serca-104837.html?gad_source=1&gad_campaignid=22491928295&gbraid=0AAAAAqOwLsYTY0ft_I1D8DXnVH7FX6Xwm&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzpy83DdLJddDlVbp5smO4MN7DuCEHdXuJMCIWaTlilHCWtJ7nUAzCBoCCXAQAvD_BwE"
+      },
+      {
+        "id": "event_104",
+        "title": "Сергій Мироненко & BAND",
+        "region_id": "odesa",
+        "type": "Концерт",
+        "date": "21.06.2025",
+        "time": "19:00",
+        "min_price": 250,
+        "max_price": 450,
+        "short_description": "Концерт Сергія Мироненка та BAND в Ізмаїлі.",
+        "description": "Сергій Мироненко та його гурт BAND виступлять в Ізмаїлі з новою програмою. Це буде яскравий вечір, сповнений емоційної музики, мелодійних композицій та запальних пісень, що принесуть слухачам задоволення та незабутні враження.",
+        "image": "/images/posters/Сергій_Мироненко_BAND.png",
+        "location": "Будинок культури ім. Шевченка, Ізмаїл",
+        "link": "https://izmail.karabas.com/serhiy-myronenko-amp-band-49/"
+      },
+      {
+        "id": "event_105",
+        "title": "За двома зайцями",
+        "region_id": "odesa",
+        "type": "Вистава",
+        "date": "12.06.2025",
+        "time": "18:00",
+        "min_price": 400,
+        "max_price": 600,
+        "short_description": "Театральна вистава «За двома зайцями» в Кілії.",
+        "description": "Популярна комедія «За двома зайцями» буде показана в Кілії. Вистава принесе багато сміху та приємних моментів завдяки комічним ситуаціям та яскравим персонажам, які не дадуть нудьгувати глядачам.",
+        "image": "/images/posters/За_двома_зайцями_Кілія.png",
+        "location": "ЦКД, Кілія",
+        "link": "https://kiliia.karabas.com/za-dvoma-zaytsyamy-42/"
+      }
 ]

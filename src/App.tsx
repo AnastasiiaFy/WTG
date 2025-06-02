@@ -1,15 +1,12 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import React from 'react';
+import Home from './pages/home_page/Home';
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App: React.FC = () => {
   return (
     <div className="App">
-      <h1>Сестринство</h1>
+      <Home />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;

@@ -1,0 +1,108 @@
+.home {
+    position: relative;
+    background-color: #f0f4f8; /* або будь-який колір */
+    min-height: 100vh;         /* мінімальна висота — 100% від вікна */
+    width: 100%;               /* ширина на весь екран */
+    margin: 0;                 /* без відступів */
+    padding: 0 0;               /* без внутрішніх відступів */
+    align-items: center;        /* вертикальне вирівнювання */
+  }
+
+  .images-wrapper {
+    position: relative;
+    margin-top: 145px;
+    width: 100%;              /* заповнює всю ширину вікна */
+    display: flex;
+    justify-content: center;  /* центрує вміст по горизонталі */
+    align-items: flex-start; /* щоб картинки не тягнули текст вниз */
+    min-height: 30px; /* достатня висота, щоб текст не обрізався */
+  }
+
+  .images-container {
+    display: flex;
+    gap: 0; /* відстань між зображеннями */
+    justify-content: center; /* центр по горизонталі */
+  }
+
+  .home-image {
+    width: 480px; /* можна змінити розмір */
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 54%;               /* Зсунуто вниз, щоб половина тексту була під зображеннями */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 105px;
+    font-weight: bold;
+    text-shadow: 0 0 8px rgba(0,0,0,0.5);
+    pointer-events: none;
+    user-select: none;
+    white-space: nowrap;
+    z-index: 10;
+  }
+
+  .description-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    /* горизонтальне центроване вирівнювання */
+    margin-top: 75px;
+    text-align: center;
+  }
+
+  .desc-text-part {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 26px;
+    color: #000;
+    margin: 10px 0;
+  }
+
+  .button-wrapper {
+    display: flex;
+    justify-content: center; /* центрує кнопку по горизонталі */
+    margin-top: 15px;
+  }
+
+  .map-wrapper {
+    display: flex;
+    flex-direction: column; /* вертикальне розміщення */
+    align-items: center;    /* по центру */
+    text-align: center;
+    margin-top: 200px;      /* якщо потрібно опустити нижче */
+  }
+
+  .map-title {
+    text-align: center;
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 50px;
+  }
+
+  .about-us-rectangle {
+    background-color: rgba(175, 167, 164, 0.7);
+    border-radius: 35px;
+    padding: 1rem 3rem;
+    margin: 8rem auto;
+    max-width: 1050px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-title {
+    font-size: 2.1rem;
+    margin-bottom: 1rem;
+    font-family: 'Georgia', sans-serif;
+  }
+  
+  .about-us-text {
+    white-space: pre-wrap;
+    font-family: 'Georgia', sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    color: #000;
+  }
+  
