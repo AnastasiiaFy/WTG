@@ -25,7 +25,7 @@ interface Event {
 const events: Event[] = Array.isArray(eventData) ? (eventData as Event[]) : [];
 
 const RegionFiltersPage: React.FC = () => {
-  const [selectedRegionId, setSelectedRegionId] = useState("dnipropetrovska");
+  const [selectedRegionId, setSelectedRegionId] = useState("cherkasy");
   const [filteredEvents, setFilteredEvents] = useState<Event[]>(
     events.filter((event) => event.region_id === selectedRegionId)
   );

@@ -19,9 +19,9 @@
     },
     {
         "id": "chernivtsi",
-        "name": "Черкаська область",   
+        "name": "Чернівецька область",   
         "picture_image": "/images/main_regions_images/picture_chernivtsi.svg",
-        "map_image": "/images/regions_maps/cherkasy_map.png"
+        "map_image": "/images/regions_maps/chernivtsi_map.png"
     },
     {
         "id": "ternopil",
@@ -115,7 +115,7 @@
     },
     {
         "id": "chernihiv",
-        "name": "Черкаська область",   
+        "name": "Чернігівська область",   
         "picture_image": "/images/main_regions_images/picture_chernihiv.svg",
         "map_image": "/images/regions_maps/chernihiv_map.png"
     }
