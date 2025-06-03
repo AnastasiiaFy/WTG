@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import { RegionMap } from "./RegionMap";
 import "../styles/MapComponent.css";
 
 interface Event {
@@ -18,9 +19,10 @@ interface Event {
   link: string;
 }
 
-const getRegionMap = (regionId: string) => `/images/regions_maps/${regionId}_map.svg`;
-
-export const MapComponent: React.FC<{ events: Event[]; selectedRegionId: string }> = ({ events, selectedRegionId }) => {
+export const MapComponent: React.FC<{ events: Event[]; selectedRegionId: string }> = ({
+  events,
+  selectedRegionId,
+}) => {
   const [hoveredEvent, setHoveredEvent] = useState<Event | null>(null);
   const tooltipRef = useRef<HTMLDivElement>(null);
 
@@ -38,11 +40,11 @@ export const MapComponent: React.FC<{ events: Event[]; selectedRegionId: string 
     }
   }, [hoveredEvent]);
 
-  const filteredEvents = events.filter(event => event.region_id === selectedRegionId);
+  const filteredEvents = events.filter((event) => event.region_id === selectedRegionId);
 
   return (
     <div className="map-container">
-      <img src={getRegionMap(selectedRegionId)} alt={`Карта ${selectedRegionId}`} className="map-image" />
+      <RegionMap regionId={selectedRegionId} eventCount={filteredEvents.length} />
 
       {filteredEvents.map(
         (event) =>
@@ -58,7 +60,11 @@ export const MapComponent: React.FC<{ events: Event[]; selectedRegionId: string 
       )}
 
       {hoveredEvent && (
-        <div ref={tooltipRef} className="tooltip" style={{ top: `${hoveredEvent.position?.y}%`, left: `${hoveredEvent.position?.x}%` }}>
+        <div
+          ref={tooltipRef}
+          className="tooltip"
+          style={{ top: `${hoveredEvent.position?.y}%`, left: `${hoveredEvent.position?.x}%` }}
+        >
           <img src={hoveredEvent.image} alt={hoveredEvent.title} className="tooltip-image" />
           <div className="tooltip-content">
             <p className="tooltip-title">{hoveredEvent.title}</p>
@@ -66,8 +72,6 @@ export const MapComponent: React.FC<{ events: Event[]; selectedRegionId: string 
           </div>
         </div>
       )}
-
-      <div className="events-count">Знайдено {filteredEvents.length} подій</div>
     </div>
   );
 };

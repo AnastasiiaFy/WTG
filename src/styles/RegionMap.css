@@ -1,0 +1,20 @@
+.region-map-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .region-map-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+  
+  .events-count {
+    font-size: 22px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+  }

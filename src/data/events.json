@@ -773,6 +773,7 @@
         "description": "Гурт Курган & Agregat представить свій новий альбом у Вінниці. Очікується енергійний виступ з новими треками та улюбленими хітами.",
         "image": "images/posters/Курган_&_Agregat.png",
         "location": "PIROGOV SKY, м. Вінниця",
+        "position": { "x": 53, "y": 43 },
         "link": "https://vinnytsia.karabas.com/kurhan-amp-agregat-prezentatsiya-al-bomu/"
     },
     {
@@ -788,6 +789,7 @@
         "description": "Відомий український музикант Pianoбой виступить у Вінниці з програмою, що включає найкращі композиції та нові пісні.",
         "image": "images/posters/Pianoбой.png",
         "location": "PIROGOV SKY, м. Вінниця",
+        "position": { "x": 51, "y": 45 },
         "link": "https://afisha.vn.ua/events/pianoboy"
     },
       {
@@ -803,6 +805,7 @@
         "description": "Volkanov — український співак з унікальним тембром та авторською подачею. Його концерт у Хмільнику стане нагодою для місцевих мешканців познайомитися ближче з живим виступом артиста та насолодитися якісною музикою.",
         "image": "images/posters/Volkanov.png",
         "location": "Районний будинок культури, м. Хмільник",
+        "position": { "x": 43.5, "y": 24 },
         "link": "https://khmilnyk.kontramarka.ua/uk/volkanov-hmilnik-91771.html"
     },
     {
@@ -818,6 +821,7 @@
         "description": "Гурт «Лісапетний Батальйон» завітає до Ямполя з концертною програмою «Неповторна Україна». Це поєднання українського гумору, народного колориту і патріотичних пісень, яке піднімає настрій і заряджає позитивом.",
         "image": "images/posters/Лісапетний_Батальйон.png",
         "location": "Центр культури і дозвілля, м. Ямпіль",
+        "position": { "x": 57.5, "y": 93 },
         "link": "https://vn.kontramarka.ua/uk/lisapetnij-bataljon-94993.html"
     },
     {
@@ -833,6 +837,7 @@
         "description": "Концерт твого літа — це святкова подія, яка об'єднає популярних виконавців та молодіжну аудиторію. Вечір драйвової музики, танців та незабутніх емоцій у самому серці Немирова.",
         "image": "images/posters/Концерт_твого_літа.png",
         "location": "Центр культури і дозвілля, м. Немирів",
+        "position": { "x": 67, "y": 57 },
         "link": "https://kasa.com.ua/koncert_tvogo_lita_104181197"
     },
       
@@ -853,7 +858,7 @@
         "description": "Вистава 'Чоловік моєї дружини' — це весела історія про несподівані повороти долі, кохання та ревнощі. Глядачів чекає вечір сміху та гарного настрою.",
         "image": "images/posters/Чоловік_моєї_дружини.png",
         "location": "Житомирський телецентр",
-        "position": { "x": 56, "y": 66 },
+        "position": { "x": 67, "y": 76 },
         "link": "https://zhyt.kontramarka.ua/uk/colovik-moei-druzini-zitomir-104999.html?gad_source=1&gad_campaignid=21093073818&gbraid=0AAAAAqOwLsbzkHZm_s4_WuAhQEJ6HQ5qL&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfhHvNI6DGq8ZqdI5OcNh3FRh1NwU5vai1lSJ4FlAnKlgZnXtERNLJIaArdHEALw_wcB"
     },
     {
@@ -869,7 +874,7 @@
         "description": "Концерт 'Наші Люди' — це музичний вечір, присвячений українським хітам та виконавцям, які стали символами нації. Спецпроєкт команди '30 плюс' об'єднує улюблені пісні та нові композиції.",
         "image": "images/posters/Наші_Люди.png",
         "location": "Драматичний театр ім. І. Кочерги, м. Житомир",
-        "position": { "x": 56, "y": 68 },
+        "position": { "x": 69, "y": 77 },
         "link": "https://afisha-ukraine.com/concert.php?id=16118"
     },
     {
@@ -885,7 +890,7 @@
         "description": "Ауріка Ротару завітає до Бердичева з сольним концертом, в якому виконає романтичні та народні пісні. Програма концерту — це щира музика, емоційне спілкування з глядачем та живий звук.",
         "image": "images/posters/Ауріка_Ротару.png",
         "location": "ПК ім. О. Шабельника, м. Бердичів",
-        "position": { "x": 53, "y": 83 },
+        "position": { "x": 68, "y": 89 },
         "link": "https://kasa.com.ua/aurika_rotaru_ta_yivo_bobul_koncert_najkrashte_104066838"
     },
     {
@@ -901,7 +906,7 @@
         "description": "«Грішна» — глибока емоційна постановка про кохання, зраду та пошуки правди в сучасному світі. Вистава торкається соціально важливих тем і не залишає байдужим жодного глядача.",
         "image": "images/posters/Грішна.png",
         "location": "Музично-драматичний театр на Європейській, м. Бердичів",
-        "position": { "x": 56, "y": 81 },
+        "position": { "x": 65, "y": 91 },
         "link": "https://concert.ua/uk/event/grishna-zhytomyr?gad_source=1&gad_campaignid=20012024363&gbraid=0AAAAADnlcN5A1Cn0nBKmL6hCdPaUWsL_d&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfgfKE9yZ01CZKndPOG7iZRWDvFYQaWKNQddx-Wy5RaiYQY_nCWUynYaAqsmEALw_wcB"
     },
     {
@@ -917,7 +922,7 @@
         "description": "Іван Ворон і гурт Beast запрошують на потужне музичне шоу в місті Малин. Очікується живий звук, драйв і щирі тексти пісень.",
         "image": "images/posters/Іван_Ворон.png",
         "location": "Центр культури і дозвілля, м. Малин",
-        "position": { "x": 77, "y": 44 },
+        "position": { "x": 83, "y": 49.5 },
         "link": "https://malyn.karabas.com/ivan-voron-ta-hurt-beast-2/"
     },
 
@@ -939,6 +944,7 @@
         "description": "Вистава 'Закохані танцюють у ліжку' — це гумористичний погляд на стосунки між чоловіком і жінкою, сповнений несподіваних поворотів та щирих емоцій.",
         "image": "images/posters/Закохані_танцюють.png",
         "location": "Кіровоградський академічний обласний український музично-драматичний театр ім. М. Л. Кропивницького, м. Кропивницький",
+        "position": { "x": 65, "y": 38 },
         "link": "https://kropyvnytskyi.karabas.com/ru/chornyy-kvadrat-zakokhani-tantsyuyut-u-lizhku-7/"
     },
     {
@@ -954,6 +960,7 @@
         "description": "Вистава 'Повернення блудного батька' розповідає про складні взаємини в родині, прощення та надію на новий початок.",
         "image": "images/posters/Повернення_блудного_батька.png",
         "location": "Кіровоградський академічний обласний український музично-драматичний театр ім. М. Л. Кропивницького, м. Кропивницький",
+        "position": { "x": 63.5, "y": 36 },
         "link": "https://kr.kontramarka.ua/uk/povernenna-bludnogo-batka-103948.html?gad_source=1&gad_campaignid=21259214313&gbraid=0AAAAAqOwLsZ_ZBrnY7GLXQAqresJPq1r1&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfhhDTxkcCH6zJ4aIJdMvsUaIO61lKbCI9eTJLxqYMnM5ZKz8G9qAmIaAgyyEALw_wcB"
     },
     {
@@ -969,6 +976,7 @@
         "description": "Гумористичне шоу 'Медичні історії' — це веселі та дотепні розповіді про будні медиків, які змушують сміятися до сліз.",
         "image": "images/posters/Медичні_історії.png",
         "location": "Кіровоградський академічний обласний український музично-драматичний театр ім. М. Л. Кропивницького, м. Кропивницький",
+        "position": { "x": 65, "y": 34.5 },
         "link": "https://kropyvnytskyi.karabas.com/ru/medychni-istorii-slavik-martynyuk-bohdan-vakhnych-ta-nazar-shebela-15/"
     },
     {
@@ -984,6 +992,7 @@
         "description": "Вистава 'За двома зайцями' — класика української драматургії, яка вже понад століття дарує глядачам сміх та добрий настрій. Комедія про пройдисвіта Свирид Голохвостого і його пригоди знову оживає на сцені МБК Бобринець.",
         "image": "images/posters/За_двома_зайцями.png",
         "location": "Міський будинок культури, м. Бобринець",
+        "position": { "x": 65.5, "y": 50 },
         "link": "https://kr.kontramarka.ua/uk/za-dvoma-zajcamimihajlo-starickij-49287.html?gad_source=1&gad_campaignid=21259214313&gbraid=0AAAAAqOwLsZ_ZBrnY7GLXQAqresJPq1r1&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfivRkL5NtDmC6iR1IQqT7WpBeS7pUvxrgvaJnhUtVwV92DikdiBC34aAsJ6EALw_wcB"
     },
     {
@@ -999,6 +1008,7 @@
         "description": "Популярна українська співачка MamaRika завітає до Олександрії з потужним лайв-шоу, у якому прозвучать її хіти та нові треки. Глядачів чекає драйв, відверті тексти й жива енергія сцени.",
         "image": "images/posters/MamaRika.png",
         "location": "Палац культури «Світлопільський», м. Олександрія",
+        "position": { "x": 81.5, "y": 30 },
         "link": "https://oleksandriya.karabas.com/mamarika-21/"
     },
       
@@ -1020,6 +1030,7 @@
         "description": "Гурт ADAM виступить у Миколаєві з новою концертною програмою, презентуючи свої найкращі хіти та нові композиції.",
         "image": "images/posters/ADAM.png",
         "location": "Концерт-хол «Юність», м. Миколаїв",
+        "position": { "x": 67, "y": 58 },
         "link": "https://mykolaiv.kontramarka.ua/uk/adam-104614.html"
     },
     {
@@ -1035,6 +1046,7 @@
         "description": "Сергій Мироненко & BAND завітають до Баштанки з драйвовим живим виступом, у якому прозвучать хіти української та авторської сцени.",
         "image": "images/posters/Сергій_Мироненко.png",
         "location": "Баштанський МБК, м. Баштанка",
+        "position": { "x": 80, "y": 40 },
         "link": "https://bashtanka.karabas.com/serhiy-myronenko-amp-band-53/"
     },
     {
@@ -1050,6 +1062,7 @@
         "description": "Гурт VAHA вирушає у всеукраїнський тур і завітає до Південноукраїнська з енергійною програмою 'Вай-вай-тур', яка поєднує регі, поп та естраду.",
         "image": "images/posters/Вай-вай-тур.png",
         "location": "ДК «Енергетик», м. Південноукраїнськ",
+        "position": { "x": 45, "y": 24 },
         "link": "https://pivdennoukrayinsk.karabas.com/vaha-vay-vay-tur-7/"
     },
     {
@@ -1065,6 +1078,7 @@
         "description": "Magic Brothers привезуть у Південноукраїнськ шоу ілюзій та розваг нового покоління — 'ДИВОVISION 2'. Це вибух фантазії, візуальних трюків і ефектів.",
         "image": "images/posters/ДИВОVISION.png",
         "location": "ДК «Енергетик», м. Південноукраїнськ",
+        "position": { "x": 48, "y": 26 },
         "link": "https://pivdennoukrayinsk.karabas.com/ilyuzion-shou-vid-magic-brothers-dyvovision-2-7/"
     },
     {
@@ -1080,6 +1094,7 @@
         "description": "Концерт KOZAK SIROMAHA — це завжди яскраве шоу з українською душею, яке заряджає енергією кожного глядача.",
         "image": "images/posters/KOZAK_SIROMAHA.png",
         "location": "ДК «Енергетик», м. Південноукраїнськ",
+        "position": { "x": 48, "y": 22 },
         "link": "https://pivdennoukrayinsk.karabas.com/kozak-siromaha-29/"
     },
       
@@ -1100,6 +1115,7 @@
         "description": "FANCON — це місце, де можна бути собою серед своїх і долучитися до створення колекції фантастичних вражень! Окрема мета — збір коштів на потреби ЗСУ. На вас чекають тематичні локації, Cosplay & K-Pop Cover Dance Show з призовим фондом 160 000 грн, презентації коміксів, манги, відеоігор, зустрічі з авторами, настільні ігри, Geek Bazaar та фудкорт.",
         "image": "images/posters/fancon.png",
         "location": "Міжнародний Виставковий Центр, Броварський проспект 15",
+        "position": { "x": 54, "y": 53 },
         "link": "https://fancon.com.ua"
     },
     {
@@ -1115,6 +1131,7 @@
         "description": "Фестиваль об’єднує експертів, спікерів і тілесних практиків для трансформації та розвитку жінок. У програмі: 10 локацій за сферами життя, трансформаційні ігри, консультації астрологів, тарологів, тілесні практики (цвяхостояння, кундаліні активація), виступи спікерів, призи та подарунки.",
         "image": "images/posters/womanocean.png",
         "location": "Гідропарк",
+        "position": { "x": 57.5, "y": 52 },
         "link": "https://womanocean.space"
     },
     {
@@ -1130,6 +1147,7 @@
         "description": "Вистава за п’єсою Габріелла Баріллі. Три молоді жінки напередодні свята обговорюють сердечні справи, доходячи до несподіваних висновків. Легка, але глибока комедія про стосунки.",
         "image": "images/posters/Медовий_місяць.png",
         "location": "Державний податковий університет, Ірпінь",
+        "position": { "x": 49, "y": 49 },
         "link": "https://irpin.karabas.com/medovyy-misyats-1/"
     },
     {
@@ -1145,6 +1163,7 @@
         "description": "Комедія про заплутані стосунки, де після бурхливого парубоцького вечора наречений прокидається з незнайомкою. Сюжет розвивається стрімко, змушуючи сміятися крізь сльози.",
         "image": "images/posters/Третій_зайвий.png",
         "location": "РБК «Енергетик», Вишгород",
+        "position": { "x": 53.5, "y": 45 },
         "link": "https://vyshhorod.karabas.com/tretiy-zayvyy-10/"
     },
     {
@@ -1160,6 +1179,7 @@
         "description": "Вистава італійського режисера Маттео Спіацці у жанрі комедії дель арте. Без слів розповідає про людей, застряглих у бюрократичній машині від 1970-х до часів незалежності. Трагедія і комедія масок про любов, кар’єру та мрії.",
         "image": "images/posters/Моменти:Momenti.png",
         "location": "Київський академічний театр драми і комедії, просп. Броварський, 25",
+        "position": { "x": 60, "y": 52 },
         "link": "https://kontramarka.ua/uk/momentimomenti-68284.html?gad_source=1&gad_campaignid=18381321338&gbraid=0AAAAACysgHun06imDdvo-X9UtkbntcDcQ&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfjPQBxR-Q_7prdAjy8xZaqCwIN2heb3y1MknFI6Y-yNuPKmAnIba_saAql_EALw_wcB"
     },
     {
@@ -1175,6 +1195,7 @@
         "description": "Atlas Festival 2025 об’єднує, надихає та допомагає ЗСУ. Хедлайнер — гурт «Бумбокс». У програмі: Dantes, YAKTAK, KOLA, Parfeniuk та інші. Музичне шоу, фудкорти та благодійність.",
         "image": "images/posters/atlasfestival.png",
         "location": "Blockbuster Mall, просп. Степана Бандери, 36",
+        "position": { "x": 54, "y": 49 },
         "link": "https://atlasfestival.com"
     },
       
@@ -1195,6 +1216,7 @@
         "description": "За мотивами п’єси Р. Тома '8 жінок'. Вісім жінок під підозрою через зникнення єдиного чоловіка в домі. Феєрверк акторських робіт, музика, танці та непередбачуваний фінал.",
         "image": "images/posters/Серцеїдки.png",
         "location": "Міський Будинок культури, Прилуки",
+        "position": { "x": 73, "y": 92.5 },
         "link": "https://pryluky.karabas.com/sertseidky-15/"
     },
     {
@@ -1210,6 +1232,7 @@
         "description": "Гурт Курган і Agregat презентує нові пісні ('Оркестр Абізян', 'Заговор Предметів', 'Світлячки') та старі хіти. 50% прибутку — на потреби ЗСУ. Енергійна вечірка з драйвом.",
         "image": "images/posters/kurgan-i-agregat-chernigiv.png",
         "location": "Чернігівський міський Палац культури, вул. Івана Мазепи, 23",
+        "position": { "x": 49, "y": 51 },
         "link": "https://concert.ua/uk/event/kurgan-i-agregat-chernigiv"
     },
     {
@@ -1225,6 +1248,7 @@
         "description": "Славік Мартинюк, Богдан Вахнич і Назар Шебела діляться кумедними історіями з роботи в психлікарні, швидкій і травмпункті. Відверто про медицину.",
         "image": "images/posters/medychni-istorii.png",
         "location": "Чернігівський Обласний академічний театр ім. Т.Г. Шевченка",
+        "position": { "x": 45, "y": 49 },
         "link": "https://chernihiv.karabas.com/medychni-istorii-slavik-martynyuk-bohdan-vakhnych-ta-nazar-shebela-19/"
     },
     {
@@ -1240,6 +1264,7 @@
         "description": "Тіна Кароль виконає хіти ('Вільна', 'Скандал', 'Україна – це ти') з унікальним вокалом у 4,5 октави. Емоційний концерт від Народної артистки України.",
         "image": "images/posters/Тіна_Кароль_Чернігів.png",
         "location": "Чернігівський міський Палац культури, вул. Івана Мазепи, 23 ",
+        "position": { "x": 45, "y": 53 },
         "link": "https://chernihiv.karabas.com/tina-karol-149/"
     },
       
@@ -1262,6 +1287,7 @@
         "description": "Концерт з акустичними версіями хітів Scorpions, Linkin Park, Metallica, Rammstein та інших. Поєднання гітар, рояля, віолончелі та скрипки для вибуху емоцій.",
         "image": "images/posters/Rock_залежність copy.png",
         "location": "Національний академічний театр ім. М.С. Щепкіна",
+        "position": { "x": 76, "y": 69 },
         "link": "https://sumy.karabas.com/akustychnyy-kontsert-rock-zalezhnist/"
     },
     {
@@ -1277,6 +1303,7 @@
         "description": "Масштабний тур 'Сильні серця' з новими піснями та хітами ('Без неї ніяк', 'Зорі запалали'). Усі концерти — благодійні, на підтримку ЗСУ.",
         "image": "images/posters/Сильні_серця.png",
         "location": "Національний академічний театр ім. М.С. Щепкіна",
+        "position": { "x": 73, "y": 71 },
         "link": "https://sumy.karabas.com/bez-obmezhen-silni-cercya-44/."
     },
     {
@@ -1292,6 +1319,7 @@
         "description": "Volkanov представить свої хіти та нові пісні. Енергійний виступ від артиста, який підкорює серця слухачів мелодійними композиціями.",
         "image": "images/posters/Volkanov_Суми.png",
         "location": "Національний академічний театр ім. М.С. Щепкіна",
+        "position": { "x": 75, "y": 73 },
         "link": "https://sumy.kontramarka.ua/uk/volkanov-sumi-90235.html"
     },
 
@@ -1312,6 +1340,7 @@
         "description": "Дві історії про подружні пари в номері готелю Беверлі Гіллз. 'Гості з Філадельфії' і 'Гості з Лондона' розкривають глибину почуттів через трагікомічні ситуації.",
         "image": "images/posters/Каліфорнійський_готель.png",
         "location": "Арт-сховище КУЛЬТУРА",
+        "position": { "x": 53, "y": 31 },
         "link": "https://kharkiv.internet-bilet.ua/uk/kaliforniyskiy-gotel"
     },
     {
@@ -1327,6 +1356,7 @@
         "description": "Джейхун Сафаров копає глибше в тему традицій, які формують нас. Смішно, незручно, щемко — про зв’язок із корінням і самим собою.",
         "image": "images/posters/Джейхуна_Сафарова.png",
         "location": "EvoHUB",
+        "position": { "x": 55, "y": 33 },
         "link": "https://kharkiv.karabas.com/v-dykykh-umovakh-novyy-sol-nyy-kontsert-dzheykhuna-safarova-11/"
     },
     {
@@ -1342,6 +1372,7 @@
         "description": "SHUMEI виконає хіти ('Тривога', 'Біля тополі'), що стали символами незламності. Емоційні мелодії, які об’єднують серця українців.",
         "image": "images/posters/SHUMEI.png",
         "location": "Театрально-концертний центр",
+        "position": { "x": 57, "y": 32.5 },
         "link": "https://kharkov.kontramarka.ua/uk/shumei-tour-2025-105108.html?gad_source=1&gad_campaignid=22530435030&gbraid=0AAAAAqOwLsZS484f2gGcgClb5UHbm-fSZ&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfgMwxeleudQjuT7cTTFDtMPJgXhn9w6krA1qvWCV75NyT3mnh-AT9UaAtCKEALw_wcB"
     },
     {
@@ -1357,6 +1388,7 @@
         "description": "Фея наділяє Цахеса магічною силою впливу на людей. Вистава в стилі готичного романтизму з гумором і естетичною насолодою.",
         "image": "images/posters/Крихітка_Цахес.png",
         "location": "Art Area 'ДК'",
+        "position": { "x": 59, "y": 28.5 },
         "link": "https://kharkiv.internet-bilet.ua/uk/krihitka-tsahes"
     },
     {
@@ -1372,6 +1404,7 @@
         "description": "Повар Даніл представляє панк-комедію — непередбачуваний виступ, де може статися будь-що. Авантюра для тих, хто готовий до несподіванок.",
         "image": "images/posters/Повар_Даніл.png",
         "location": "Шоу Ресторан 'AltBier' ",
+        "position": { "x": 56, "y": 28 },
         "link": "https://www.brod-stand-up.com/events/kharkiv-solniy-kontsert-povara-danila"
     },
 
@@ -1392,6 +1425,7 @@
         "description": "Історичний мюзикл про митців (Курбас, Хвильовий, Тичина) поєднує хіп-хоп, драму і документалістику. Емоційна розповідь про українську культуру, яку побачили 60 000 людей.",
         "image": "images/posters/Ти_Романтика.png",
         "location": "'Листопад'",
+        "position": { "x": 77, "y": 49 },
         "link": "https://poltava.karabas.com/mur-myuzykl-ty-romantyka-vystava-nazhyvo/"
     },
     {
@@ -1407,6 +1441,7 @@
         "description": "Вистава за твором Панаса Мирного. Трагічна історія кохання Лимерівни, що розкриває силу почуттів і драматизм людських доль.",
         "image": "images/posters/Лимерівна.png",
         "location": "Театр імені М.В. Гоголя",
+        "position": { "x": 72, "y": 49 },
         "link": "https://concert.ua/uk/event/limerivna-poltava?gad_source=1&gad_campaignid=19551061172&gbraid=0AAAAADnlcN47sL3vnjlXJpHeEL7E6fOXj&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfgqsYxzojPM735MSgw0lb8gYMG15Yqr5IR4T32zz4BeiNZLZnRXGNcaAmrREALw_wcB"
     },
     {
@@ -1422,6 +1457,7 @@
         "description": "Світова прем’єра про Квітку Цісик — співачку з українським серцем. Історія боротьби з хворобою, кохання та створення українських альбомів, що подарували їй вічність.",
         "image": "images/posters/KVITKA.png",
         "location": "Театр імені М.В. Гоголя",
+        "position": { "x": 75, "y": 51 },
         "link": "https://poltava.karabas.com/kvitka-lehenda-ukrains-koi-pisni-1/"
     },
     {
@@ -1437,6 +1473,7 @@
         "description": "Театр Тіней 'Teulis' поєднує хореографію, акробатику та світлові ефекти, створюючи магічні історії, що зачаровують глядачів.",
         "image": "images/posters/Teulis.png",
         "location": "Центр культури та дозвілля",
+        "position": { "x": 79, "y": 55 },
         "link": "https://pl.kontramarka.ua/uk/teatr-tinej-teulis-100111.html"
     },
     {
@@ -1452,6 +1489,7 @@
         "description": "Класична комедія про американця Яро, який шукає українську наречену. Гуцульський колорит, гумор, танці та музика Ярослава Барнича.",
         "image": "images/posters/Гуцулка_Ксеня_ПОлтава.png",
         "location": "'Листопад'",
+        "position": { "x": 75, "y": 56 },
         "link": "https://poltava.karabas.com/ru/hutsulka-ksenya-muzychna-komediya-2/"
     },
       
@@ -1471,6 +1509,7 @@
         "description": "Балет про закоханих Лізу і Колена, які долають перешкоди жадібної матері. Весела історія з дотепними витівками та щасливим фіналом.",
         "image": "images/posters/daremna-obmezhenist.png",
         "location": "Дніпровський Академічний Театр Опери та балету",
+        "position": { "x": 64, "y": 38 },
         "link": "https://dnipro.internet-bilet.ua/uk/daremna-obmezhenist"
     },
     {
@@ -1486,6 +1525,7 @@
         "description": "Хіти 'Океану Ельзи', 'The Hardkiss', 'Led Zeppelin', 'Scorpions' та класика Моцарта і Вівальді в новій інтерпретації від солістів, хору та оркестру.",
         "image": "images/posters/Рок_в_опері.png",
         "location": "Дніпровський Академічний Театр Опери та балету",
+        "position": { "x": 60, "y": 33 },
         "link": "https://dnipro.karabas.com/rok-v-operi-datob-9/"
     },
     {
@@ -1501,6 +1541,7 @@
         "description": "Сучасний 'Макбет' з жіночими головними ролями. Брехня, амбіції та пророцтва ведуть до хаосу. Провокативна і емоційна вистава.",
         "image": "images/posters/Макбет.png",
         "location": "Театр драми та комедії",
+        "position": { "x": 59, "y": 37 },
         "link": "https://dnipro.internet-bilet.ua/uk/makbet"
     },
     {
@@ -1516,6 +1557,7 @@
         "description": "Симфонічний оркестр на даху Менори виконає класичні та сучасні твори. Атмосфера тепла, сонця та музичної насолоди.",
         "image": "images/posters/Symphony_Orchestra.png",
         "location": "Центр 'Менора'",
+        "position": { "x": 57, "y": 34 },
         "link": "https://dnipro.karabas.com/en/son-litn-oi-nochi-symphony-orchestra-na-dakhu-menory/"
     },
     {
@@ -1531,6 +1573,7 @@
         "description": "За п’єсою Лаури Черняускайте. Історія Фелікса і Люче про зв’язок минулого й майбутнього, відповідальність і внутрішнє примирення.",
         "image": "images/posters/Люче_і_Фелікс.png",
         "location": "Театр драми та комедії",
+        "position": { "x": 53, "y": 32 },
         "link": "https://dnepr.kontramarka.ua/uk/luce-i-feliks-88488.html"
     }  
 ]
