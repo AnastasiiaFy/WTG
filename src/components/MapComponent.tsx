@@ -18,35 +18,33 @@ interface Event {
   link: string;
 }
 
-export const MapComponent: React.FC<{ events: Event[] }> = ({ events }) => {
+const getRegionMap = (regionId: string) => `/images/regions_maps/${regionId}_map.svg`;
+
+export const MapComponent: React.FC<{ events: Event[]; selectedRegionId: string }> = ({ events, selectedRegionId }) => {
   const [hoveredEvent, setHoveredEvent] = useState<Event | null>(null);
   const tooltipRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (hoveredEvent && tooltipRef.current) {
       const tooltipRect = tooltipRef.current.getBoundingClientRect();
-      const headerHeight = 100; // Приблизна висота хедера (можна замінити на реальну висоту)
+      const headerHeight = 100;
       const viewportTop = window.scrollY;
 
       if (tooltipRect.top < viewportTop + headerHeight) {
-        // Якщо верх tooltip вище хедера, зміщуємо вниз
         tooltipRef.current.style.transform = `translate(-50%, 0)`;
       } else {
-        // Інакше повертаємо стандартне положення
         tooltipRef.current.style.transform = `translate(-50%, -100%)`;
       }
     }
   }, [hoveredEvent]);
 
+  const filteredEvents = events.filter(event => event.region_id === selectedRegionId);
+
   return (
     <div className="map-container">
-      <img
-        src="/images/regions_maps/cherkasy_map.svg"
-        alt="Карта Черкаської області"
-        className="map-image"
-      />
+      <img src={getRegionMap(selectedRegionId)} alt={`Карта ${selectedRegionId}`} className="map-image" />
 
-      {events.map(
+      {filteredEvents.map(
         (event) =>
           event.position && (
             <div
@@ -60,19 +58,8 @@ export const MapComponent: React.FC<{ events: Event[] }> = ({ events }) => {
       )}
 
       {hoveredEvent && (
-        <div
-          ref={tooltipRef}
-          className="tooltip"
-          style={{
-            top: `${hoveredEvent.position?.y}%`,
-            left: `${hoveredEvent.position?.x}%`,
-          }}
-        >
-          <img
-            src={hoveredEvent.image}
-            alt={hoveredEvent.title}
-            className="tooltip-image"
-          />
+        <div ref={tooltipRef} className="tooltip" style={{ top: `${hoveredEvent.position?.y}%`, left: `${hoveredEvent.position?.x}%` }}>
+          <img src={hoveredEvent.image} alt={hoveredEvent.title} className="tooltip-image" />
           <div className="tooltip-content">
             <p className="tooltip-title">{hoveredEvent.title}</p>
             <p className="tooltip-description">{hoveredEvent.short_description}</p>
@@ -80,9 +67,7 @@ export const MapComponent: React.FC<{ events: Event[] }> = ({ events }) => {
         </div>
       )}
 
-      <div className="events-count">
-        Знайдено {events.length} подій
-      </div>
+      <div className="events-count">Знайдено {filteredEvents.length} подій</div>
     </div>
   );
 };

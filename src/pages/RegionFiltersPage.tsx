@@ -25,8 +25,9 @@ interface Event {
 const events: Event[] = Array.isArray(eventData) ? (eventData as Event[]) : [];
 
 const RegionFiltersPage: React.FC = () => {
+const [selectedRegionId, setSelectedRegionId] = useState("cherkasy"); // або іншу область
   const [filteredEvents, setFilteredEvents] = useState<Event[]>(
-    events.filter((event) => event.region_id === "cherkasy")
+    events.filter((event) => event.region_id === selectedRegionId)
   );
 
   const convertDateFormat = (date: string): string => {
@@ -42,7 +43,7 @@ const RegionFiltersPage: React.FC = () => {
     priceTo: number;
   }) => {
     const filtered = events.filter((event: Event) => {
-      if (event.region_id !== "cherkasy") return false;
+      if (event.region_id !== selectedRegionId) return false;
       if (filters.type && event.type !== filters.type) return false;
       if (filters.date) {
         const filterDate = filters.date;
@@ -53,13 +54,11 @@ const RegionFiltersPage: React.FC = () => {
         const priceFrom = filters.priceFrom || 0;
         const priceTo = filters.priceTo || Infinity;
         if (event.min_price > priceTo && event.max_price > priceTo) return false;
-        if (event.max_price < priceFrom && event.min_price < priceFrom)
-          return false;
+        if (event.max_price < priceFrom && event.min_price < priceFrom) return false;
       }
       return true;
     });
 
-    console.log("Знайдені події після фільтрації:", filtered);
     setFilteredEvents(filtered);
   };
 
@@ -68,7 +67,7 @@ const RegionFiltersPage: React.FC = () => {
       <Header />
       <div className="content">
         <FilterPanel onApplyFilters={applyFilters} />
-        <MapComponent events={filteredEvents} />
+        <MapComponent events={filteredEvents} selectedRegionId={selectedRegionId} />
       </div>
       <Footer />
     </div>
